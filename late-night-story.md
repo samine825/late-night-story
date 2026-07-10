@@ -13,7 +13,7 @@
 > Sharon finds herself as a cop in the huge location of night club with the generic goons.
 > Every new room she gets in is filled to the brim with the waves of goons and mysteries as he tries to find out the local mafia boss.
 
-* ###  [[story]]
+* ###  [[сюжет]]
 * ### [[locations]]
 * ### [[characters]]
 
@@ -28,4 +28,4 @@
 ---
 > 80-90's  party, retrowave
 
-[[references]]
+[[референсы]]

@@ -3,12 +3,12 @@
 # [[late-night-story]]
 ---
 
-## visual style
+## Визуальный стиль
 * ### [[ui]]
-* ### [[references]]
+* ### [[референсы]]
 
 ---
-## [[story]]
+## [[сюжет]]
 
 ---
 ## gameplay
