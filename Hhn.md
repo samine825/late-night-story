@@ -1,6 +1,0 @@
-Bnbnnjkmjjnbvbdhsjdjkdmdveheueuejje
-
-
-я ебал
-
-nebebe
