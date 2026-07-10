@@ -14,15 +14,15 @@
 > Every new room she gets in is filled to the brim with the waves of goons and mysteries as he tries to find out the local mafia boss.
 
 * ###  [[сюжет]]
-* ### [[locations]]
-* ### [[characters]]
+* ### [[локации]]
+* ### [[персонажи]]
 
 
 ## Visual Style
 ---
 > A lot of bisexual lighting, even in the dim lit storage rooms
 
-* #### [[ui]]
+* #### [[пользовательский-интерфейс]]
 
 ## Music
 ---
