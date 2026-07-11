@@ -1,31 +1,26 @@
 #index
 
-## Gameplay
+## История
 ---
-> The game is split in two by the gameplay mechanics - [[beat-em-up]] while clearing the rooms out from the goons and [[point-and-click]] while solving a crime in aftermath.
+>  Шерон становится копом, ей предстоит отправится на расследование в ночной клуб.
+>  В каждой новой комнате её ожидают волны гангстеров и загадки, в то время как ей был выдан ордер на арест дона местной мафии.
 
-* ###  [[point-and-click]]
-* ###  [[beat-em-up]]
+* ####  [[история]]
+* ####  [[локации]]
+* ####  [[персонажи]]
 
-
-## Story
+## Геймплей
 ---
-> Sharon finds herself as a cop in the huge location of night club with the generic goons.
-> Every new room she gets in is filled to the brim with the waves of goons and mysteries as he tries to find out the local mafia boss.
+>  Игра будет геймплейно разделена на две части - [[beat-em-up]], когда ей придется драться с наемниками, и [[point-and-click]], когда она затем будет проводить свое расследование.
 
-* ###  [[сюжет]]
-* ### [[локации]]
-* ### [[персонажи]]
-
-
-## Visual Style
+## Визуальный Стиль
 ---
-> A lot of bisexual lighting, even in the dim lit storage rooms
+>  Будет смешаны элементы рейв-вечеринки и стимпанка.
+>  (неоновое освещение, механизмы на пару, трубы, парящие острова в небе)
 
-* #### [[пользовательский-интерфейс]]
+* ####  [[пользовательский-интерфейс]]
+* ####  [[визуальные-референсы]]
 
 ## Music
 ---
-> 80-90's  party, retrowave
-
-[[референсы]]
+>  ретровейв, ==64(?)==
