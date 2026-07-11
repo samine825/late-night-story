@@ -1,6 +1,6 @@
 #story 
 
-## Цели
+# Цели
 ---
 
 * ####  Попасть в клуб
@@ -17,16 +17,27 @@
 ## Локации
 ---
 
-* ####  [[night-club|Ночной клуб]]
-	 [[club-entrance|вход в клуб]]
-	 [[dancing-ground|танцпол]]
-	 [[restrooms|уборные]]
-	 [[restricted-areas|рабочие помещения]]
-	 [[security-room|комната охраны]]
+* ##  [[night-club|Ночной клуб]]
 	
-* ####  [[streets|Улицы]]
-	 [[rooftop|крыша]]
-	 [[balconies|балконы]]
-	 [[backyard|задний двор]]
-	 [[sewerage|канализация]]
+	* ####  [[club-entrance|вход в клуб]]
+		
+	* ####  [[dancing-ground|танцпол]]
+		
+	* ####  [[restrooms|уборные]]
+		
+	* ####  [[restricted-areas|рабочие помещения]]
+		
+	* ####  [[security-room|комната охраны]]
+		
+	
+* ##  [[streets|Улицы]]
+	
+	* ####  [[rooftop|крыша]]
+		
+	* ####  [[balconies|балконы]]
+		
+	* ####  [[backyard|задний двор]]
+		
+	* ####  [[sewerage|канализация]]
+		
 	

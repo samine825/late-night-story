@@ -45,6 +45,7 @@
 	 [[training-grounds|тренировочный полигон]]
 	 [[break-room|комната отдыха]]
 	 [[own-bureau|личное бюро]]
+	 [[parking|парковка]]
 	 [[chiefs-office|офис шефа]]
 	
 * ####  [[night-club|Ночной клуб]]

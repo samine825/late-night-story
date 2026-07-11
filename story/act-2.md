@@ -21,14 +21,24 @@
 ## Локации
 ---
 
-* ####  [[police-station|Полицейский участок]]
-	[[chiefs-office|офис начальника]]
-	[[break-room|комната отдыха]]
-	[[own-bureau|личное бюро]]
+* ##  [[police-station|Полицейский участок]]
 	
-* ####  [[docks|Доки]]
-	[[docks-outskirts|окрестности]]
-	[[containers|контейнеры]]
-	[[loading-station|погрузочная станция]]
-	[[yacht|яхта]]
+	* ####  [[chiefs-office|офис начальника]]
+		
+	* ####  [[break-room|комната отдыха]]
+		
+	* ####  [[own-bureau|личное бюро]]
+		
+	
+	
+* ##  [[docks|Доки]]
+	
+	* ####  [[docks-outskirts|окрестности]]
+		
+	* ####  [[containers|контейнеры]]
+		
+	* ####  [[loading-station|погрузочная станция]]
+		
+	* ####  [[yacht|яхта]]
+		
 	
