@@ -5,8 +5,6 @@
 
 * ##  [[abandoned-factory|Заброшенный завод]]
 	
-	* ####  [[yacht|Яхта]]
-		
 	* ####  [[private-territory|Частная территория]]
 		
 	* ####  [[secret-passage|Секретный проход]]
@@ -14,6 +12,7 @@
 	* ####  [[warehouse|Склад]]
 		
 	* ####  [[conveyor-belt|Конвейерная лента]]
+		1. Одолеть [[mafia-boss|Дона]]
 		
 	
 
@@ -30,8 +29,6 @@
 
 * ##  [[abandoned-factory|Заброшенный завод]]
 	
-	* ####  [[yacht|Яхта]]
-		
 	* ####  [[private-territory|Частная территория]]
 		
 	* ####  [[secret-passage|Секретный проход]]
@@ -39,6 +36,7 @@
 	* ####  [[warehouse|Склад]]
 		
 	* ####  [[conveyor-belt|Конвейерная лента]]
+		1. Одолеть [[mafia-boss|Дона]]
 		
 	
 
