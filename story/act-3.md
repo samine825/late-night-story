@@ -5,13 +5,15 @@
 
 * ##  [[abandoned-factory|Заброшенный завод]]
 	
-	* ####  [[private-territory|частная территория]]
+	* ####  [[yacht|Яхта]]
 		
-	* ####  [[secret-passage|секретный проход]]
+	* ####  [[private-territory|Частная территория]]
 		
-	* ####  [[warehouse|склад]]
+	* ####  [[secret-passage|Секретный проход]]
 		
-	* ####  [[conveyor-belt|конвейерная лента]]
+	* ####  [[warehouse|Склад]]
+		
+	* ####  [[conveyor-belt|Конвейерная лента]]
 		
 	
 
@@ -20,12 +22,14 @@
 
 * ##  [[abandoned-factory|Заброшенный завод]]
 	
-	* ####  [[private-territory|частная территория]]
+	* ####  [[yacht|Яхта]]
 		
-	* ####  [[secret-passage|секретный проход]]
+	* ####  [[private-territory|Частная территория]]
 		
-	* ####  [[warehouse|склад]]
+	* ####  [[secret-passage|Секретный проход]]
 		
-	* ####  [[conveyor-belt|конвейерная лента]]
+	* ####  [[warehouse|Склад]]
+		
+	* ####  [[conveyor-belt|Конвейерная лента]]
 		
 	

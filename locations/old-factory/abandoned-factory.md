@@ -3,6 +3,7 @@
 # Места
 ---
 
+* ##  [[yacht|Яхта]]
 * ##  [[private-territory|Частная территория]]
 * ##  [[secret-passage|Секретный проход]]
 * ##  [[warehouse|Склад]]
