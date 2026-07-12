@@ -1,5 +1,6 @@
-#index #pnc #beu #story #location #character #visuals
+#index #pnc #beu #story #location #character #gameplay 
 
+[[TODO]]
 # [[late-night-story]]
 
 ---
@@ -7,6 +8,7 @@
 
 * ####  Игровые элементы
 	 [[camera|камера]]
+	 [[controls|управление]]
 	 [[ui|пользовательский интерфейс]]
 	 [[dialogs|диалоги]]
 	 [[menus|меню]]
