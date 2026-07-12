@@ -52,7 +52,7 @@
 * ####  [[night-club|Ночной клуб]]
 	 [[club-entrance|вход в клуб]]
 	 [[dancing-ground|танцпол]]
-	 [[restricted-areas|рабочие помещения]]
+	 [[back-of-house|служебная зона]]
 	 [[security-room|комната охраны]]
 	
 * ####  [[streets|Улицы]]

@@ -5,7 +5,7 @@
 
 * ##  [[club-entrance|Вход в клуб]]
 * ##  [[dancing-ground|Танцпол]]
-* ##  [[restricted-areas|Рабочие помещения]]
+* ##  [[back-of-house|Служебная зона]]
 * ##  [[security-room|Комната охраны]]
 
 # Музыкальная тема
