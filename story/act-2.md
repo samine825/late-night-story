@@ -3,15 +3,21 @@
 # Цели
 ---
 
+
+* ##  [[streets|Улицы]]
+	
+	* ####  [[sewerage|Канализация]]
+		
+	
 * ##  [[docks|Доки]]
 	
-	* ####  [[docks-outskirts|окрестности]]
+	* ####  [[docks-outskirts|Окрестности]]
 		
-	* ####  [[containers|контейнеры]]
+	* ####  [[containers|Контейнеры]]
 		
-	* ####  [[loading-station|погрузочная станция]]
+	* ####  [[loading-station|Погрузочная станция]]
 		
-	* ####  [[yacht|яхта]]
+	* ####  [[yacht|Яхта]]
 		
 	
 
@@ -21,21 +27,21 @@
 
 * ##  [[police-station|Полицейский участок]]
 	
-	* ####  [[chiefs-office|офис начальника]]
+	* ####  [[chiefs-office|Офис начальника]]
 		
-	* ####  [[bureau|бюро]]
+	* ####  [[bureau|Бюро]]
 		
-	* ####  [[parking|парковка]]
+	* ####  [[parking|Парковка]]
 		
 	
 * ##  [[docks|Доки]]
 	
-	* ####  [[docks-outskirts|окрестности]]
+	* ####  [[docks-outskirts|Окрестности]]
 		
-	* ####  [[containers|контейнеры]]
+	* ####  [[containers|Контейнеры]]
 		
-	* ####  [[loading-station|погрузочная станция]]
+	* ####  [[loading-station|Погрузочная станция]]
 		
-	* ####  [[yacht|яхта]]
+	* ####  [[yacht|Яхта]]
 		
 	
