@@ -81,6 +81,8 @@
 * ####  [[npcs|NPC]]
 	 [[police-chief|Начальник полиции]]
 	 [[random-cops|случайные полицейские]]
+	 [[rat-cop|Офицер Энджи]]
+	 [[traitor-mouse|мышь-предатель]]
 	
 * ####  [[enemies|Враги]]
 	 [[training-dummy|тренировочный манекен]]
