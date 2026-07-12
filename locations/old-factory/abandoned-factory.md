@@ -4,9 +4,9 @@
 ---
 
 * ##  [[private-territory|Частная территория]]
+* ##  [[secret-passage|Секретный проход]]
 * ##  [[warehouse|Склад]]
 * ##  [[conveyor-belt|Конвейерная лента]]
-* ##  [[secret-passage|Секретный проход]]
 
 
 # Музыка

@@ -8,4 +8,3 @@
 * ##  [[streets|Улицы]]
 * ##  [[docks|Доки]]
 * ##  [[abandoned-factory|Заброшенный завод]]
-* ##  [[secret-bunker|Секретный бункер]]

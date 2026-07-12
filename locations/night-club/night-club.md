@@ -5,7 +5,6 @@
 
 * ##  [[club-entrance|Вход в клуб]]
 * ##  [[dancing-ground|Танцпол]]
-* ##  [[restrooms|Уборные]]
 * ##  [[restricted-areas|Рабочие помещения]]
 * ##  [[security-room|Комната охраны]]
 

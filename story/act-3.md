@@ -7,25 +7,25 @@
 	
 	* ####  [[private-territory|частная территория]]
 		
-	* ####  [[conveyor-belt|конвейерная лента]]
+	* ####  [[secret-passage|секретный проход]]
 		
 	* ####  [[warehouse|склад]]
 		
-	* ####  [[secret-passage|секретный проход]]
+	* ####  [[conveyor-belt|конвейерная лента]]
 		
 	
-* ##  [[secret-bunker|Секретный бункер]]
-	
-	* ####  [[vault-door|вход в бункер]]
-		
-	* ####  [[catacombs|катакомбы]]
-		
-	* ####  [[archive|архив]]
-		
-	* ####  [[mafia-boss-office|офис дона]]
-		
-	
-
 
 # Секретный путь
 ---
+
+* ##  [[abandoned-factory|Заброшенный завод]]
+	
+	* ####  [[private-territory|частная территория]]
+		
+	* ####  [[secret-passage|секретный проход]]
+		
+	* ####  [[warehouse|склад]]
+		
+	* ####  [[conveyor-belt|конвейерная лента]]
+		
+	
