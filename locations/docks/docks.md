@@ -3,7 +3,7 @@
 # Места
 ---
 
-* ##  [[docks-outskirts|Окрестности]]
+* ##  [[outskirts|Окрестности]]
 * ##  [[containers|Контейнеры]]
 * ##  [[loading-station|Погрузочная станция]]
 * ##  [[yacht|Яхта]]

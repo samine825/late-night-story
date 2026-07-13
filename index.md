@@ -1,6 +1,6 @@
 #index #pnc #beu #story #location #character #gameplay 
 
-[[TODO]]
+# [[TODO]]
 # [[late-night-story]]
 
 ---
@@ -62,7 +62,7 @@
 	 [[sewerage|канализация]]
 	
 * ####  [[docks|Доки]]
-	 [[docks-outskirts|окрестности]]
+	 [[outskirts|окрестности]]
 	 [[containers|контейнеры]]
 	 [[loading-station|погрузочная станция]]
 	 [[yacht|яхта]]
@@ -86,7 +86,7 @@
 	
 * ####  [[enemies|Враги]]
 	 [[training-dummy|тренировочный манекен]]
-	 [[tennis-ball-cannon|пушка стреляющая теннисными мячиками]]
+	 [[tennis-ball-cannon|Теннисная пушка]]
 	 [[melee-rat\|крыса-наемник]]
 	 [[batter-rat|крыса с битой]]
 	 [[ranger-rat\|крыса-стрелок]]
@@ -96,6 +96,8 @@
 	 [[pressure-tube-rat|крыса с пневматикой]]
 	 [[pipe-rat|крыса с трубой]]
 	 [[watcher-drone|дрон наблюдатель]]
+	 [[kamikaze-drone|дрон камикадзе]]
+	 [[heavy-guardian|укрепленный стражник]]
 	
 * ####  [[bosses|Боссы]]
 	 [[police-chief-boss|Начальник полиции (босс)]]
