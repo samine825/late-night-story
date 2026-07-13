@@ -55,7 +55,7 @@
 	 [[back-of-house|служебная зона]]
 	 [[security-room|комната охраны]]
 	
-* ####  [[streets|Улицы]]
+* ####  [[outdoors|Улицы]]
 	 [[rooftop|крыша]]
 	 [[balconies|балконы]]
 	 [[backyard|задний двор]]
@@ -88,10 +88,14 @@
 	 [[training-dummy|тренировочный манекен]]
 	 [[tennis-ball-cannon|пушка стреляющая теннисными мячиками]]
 	 [[melee-rat\|крыса-наемник]]
-	 [[bat-rat|крыса с битой]]
+	 [[batter-rat|крыса с битой]]
 	 [[ranger-rat\|крыса-стрелок]]
 	 [[buffed-rat|накачанная крыса]]
 	 [[kneebreaker|подножка]]
+	 
+	 [[pressure-tube-rat|крыса с пневматикой]]
+	 [[pipe-rat|крыса с трубой]]
+	 [[watcher-drone|дрон наблюдатель]]
 	
 * ####  [[bosses|Боссы]]
 	 [[police-chief-boss|Начальник полиции (босс)]]
