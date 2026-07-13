@@ -1,6 +1,6 @@
 #location 
 
-# Места
+# [[night-club-plan.canvas|Места]]
 ---
 
 * ##  [[club-entrance|Вход в клуб]]

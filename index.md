@@ -7,21 +7,21 @@
 ## Геймплей
 
 * ####  Игровые элементы
-	 [[camera|камера]]
-	 [[controls|управление]]
-	 [[ui|пользовательский интерфейс]]
-	 [[dialogs|диалоги]]
-	 [[menus|меню]]
+	*  [[camera|камера]]
+	*  [[controls|управление]]
+	*  [[ui|пользовательский интерфейс]]
+	*  [[dialogs|диалоги]]
+	*  [[menus|меню]]
 	
 * ####  [[point-and-click|Point and Click]]
-	 [[pnc-movement|передвижение]]
-	 [[pnc-mechanics|механики]]
-	 [[pnc-abilities|способности]]
+	*  [[pnc-movement|передвижение]]
+	*  [[pnc-mechanics|механики]]
+	*  [[pnc-abilities|способности]]
 	
 * ####  [[beat-em-up|Beat Em Up]]
-	 [[beu-movement|передвижение]]
-	 [[beu-mechanics|механики]]
-	 [[beu-abilities|способности]]
+	*  [[beu-movement|передвижение]]
+	*  [[beu-mechanics|механики]]
+	*  [[beu-abilities|способности]]
 	
 
 
@@ -29,9 +29,9 @@
 ## [[story|История]]
 
 * ####  Дизайн персонажей
-	 [[mice|Мыши]]
-	 [[rats|Крысы]]
-	 [[robots|Роботы]]
+	*  [[mice|Мыши]]
+	*  [[rats|Крысы]]
+	*  [[robots|Роботы]]
 	
 * #### Хронология
 	1. [[epilogue|Обучение]]
@@ -44,34 +44,34 @@
 ## [[locations|Локации]]
 
 * ####  [[police-station|Полицейский участок]]
-	 [[training-grounds|тренировочный полигон]]
-	 [[bureau|бюро]]
-	 [[parking|парковка]]
-	 [[chiefs-office|офис шефа]]
+	*  [[training-grounds|тренировочный полигон]]
+	*  [[bureau|бюро]]
+	*  [[parking|парковка]]
+	*  [[chiefs-office|офис шефа]]
 	
 * ####  [[night-club|Ночной клуб]]
-	 [[club-entrance|вход в клуб]]
-	 [[dancing-ground|танцпол]]
-	 [[back-of-house|служебная зона]]
-	 [[security-room|комната охраны]]
+	*  [[club-entrance|вход в клуб]]
+	*  [[dancing-ground|танцпол]]
+	*  [[back-of-house|служебная зона]]
+	*  [[security-room|комната охраны]]
 	
 * ####  [[outdoors|Улицы]]
-	 [[rooftop|крыша]]
-	 [[balconies|балконы]]
-	 [[backyard|задний двор]]
-	 [[sewerage|канализация]]
+	*  [[rooftop|крыша]]
+	*  [[balconies|балконы]]
+	*  [[backyard|задний двор]]
+	*  [[sewerage|канализация]]
 	
 * ####  [[docks|Доки]]
-	 [[outskirts|окрестности]]
-	 [[containers|контейнеры]]
-	 [[loading-station|погрузочная станция]]
-	 [[yacht|яхта]]
+	*  [[outskirts|окрестности]]
+	*  [[containers|контейнеры]]
+	*  [[loading-station|погрузочная станция]]
+	*  [[yacht|яхта]]
 	
 * ###  [[abandoned-factory|Заброшенный завод]]
-	 [[private-territory|частная территория]]
-	 [[secret-passage|секретный проход]]
-	 [[warehouse|склад]]
-	 [[conveyor-belt|конвейерная лента]]
+	*  [[private-territory|частная территория]]
+	*  [[secret-passage|секретный проход]]
+	*  [[warehouse|склад]]
+	*  [[conveyor-belt|конвейерная лента]]
 	
 
 
@@ -79,34 +79,40 @@
 ## [[characters|Персонажи]]
 
 * ####  [[npcs|NPC]]
-	 [[police-chief|Начальник полиции]]
-	 [[random-cops|случайные полицейские]]
-	 [[rat-cop|Офицер Энджи]]
-	 [[traitor-mouse|мышь-предатель]]
+	*  [[police-chief|Начальник полиции]]
+	*  [[random-cops|случайные полицейские]]
+	*  [[rat-cop|Офицер Энджи]]
+	*  [[traitor-mouse|мышь-предатель]]
 	
 * ####  [[enemies|Враги]]
-	 [[training-dummy|тренировочный манекен]]
-	 [[tennis-ball-cannon|Теннисная пушка]]
-	 [[melee-rat\|крыса-наемник]]
-	 [[batter-rat|крыса с битой]]
-	 [[ranger-rat\|крыса-стрелок]]
-	 [[buffed-rat|накачанная крыса]]
-	 [[kneebreaker|подножка]]
+	*  [[training-dummy|тренировочный манекен]]
+	*  [[tennis-ball-cannon|Теннисная пушка]]
+	*  [[melee-rat\|крыса-наемник]]
+	*  [[batter-rat|крыса с битой]]
+	*  [[ranger-rat\|крыса-стрелок]]
+	*  [[buffed-rat|накачанная крыса]]
+	*  [[kneebreaker|подножка]]
 	 
-	 [[pressure-tube-rat|крыса с пневматикой]]
-	 [[pipe-rat|крыса с трубой]]
-	 [[watcher-drone|дрон наблюдатель]]
-	 [[kamikaze-drone|дрон камикадзе]]
-	 [[heavy-guardian|укрепленный стражник]]
+	*  [[pressure-tube-rat|крыса с пневматикой]]
+	*  [[pipe-rat|крыса с трубой]]
+	*  [[watcher-drone|дрон наблюдатель]]
+	*  [[kamikaze-drone|дрон камикадзе]]
+	*  [[heavy-guardian|укрепленный стражник]]
 	
 * ####  [[bosses|Боссы]]
-	 [[police-chief-boss|Начальник полиции (босс)]]
-	 [[mafia-boss-daughter|Дочь Дона]]
-	 [[mafia-boss|Дон]]
+	*  [[police-chief-boss|Начальник полиции (босс)]]
+	*  [[mafia-boss-daughter|Дочь Дона]]
+	*  [[mafia-boss|Дон]]
 	
 
 ---
 ## Референсы
+
+
+![[rokfor.png]]
+
+ ![[female-biker.png]]
+
 
 ---
 ## Музыка

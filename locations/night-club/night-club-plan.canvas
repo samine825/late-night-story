@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"63441e3b01eb183a","x":-125,"y":-30,"width":145,"height":50,"color":"6","type":"text","text":"[[club-entrance|Вход в клуб]]"},
+		{"id":"6e7abbe231005907","x":-107,"y":60,"width":109,"height":60,"type":"text","text":"[[club-entrance#^37047f|Улица]]"},
+		{"id":"d07c381d6c1a3a8d","x":-177,"y":160,"width":250,"height":60,"type":"text","text":"[[club-entrance#^a34749|Узкая развилка]]"},
+		{"id":"de2f4ed5cc6716b9","x":-177,"y":260,"width":250,"height":60,"type":"text","text":"[[club-entrance#^f1eb81|Дверь в клуб]]"}
+	],
+	"edges":[]
+}
