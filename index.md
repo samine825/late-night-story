@@ -86,18 +86,19 @@
 	
 * ####  [[enemies|Враги]]
 	*  [[training-dummy|тренировочный манекен]]
-	*  [[tennis-ball-cannon|Теннисная пушка]]
+	*  [[tennis-ball-cannon|теннисная пушка]]
 	*  [[melee-rat\|крыса-наемник]]
 	*  [[batter-rat|крыса с битой]]
-	*  [[ranger-rat\|крыса-стрелок]]
+	*  [[ranger-rat\|крыса с рогаткой]]
 	*  [[buffed-rat|накачанная крыса]]
 	*  [[kneebreaker|подножка]]
-	 
+	*  
 	*  [[pressure-tube-rat|крыса с пневматикой]]
 	*  [[pipe-rat|крыса с трубой]]
 	*  [[watcher-drone|дрон наблюдатель]]
 	*  [[kamikaze-drone|дрон камикадзе]]
 	*  [[heavy-guardian|укрепленный стражник]]
+	*  
 	
 * ####  [[bosses|Боссы]]
 	*  [[police-chief-boss|Начальник полиции (босс)]]
