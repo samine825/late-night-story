@@ -97,7 +97,7 @@
 	*  [[pipe-rat|крыса с трубой]]
 	*  [[watcher-drone|дрон наблюдатель]]
 	*  [[kamikaze-drone|дрон камикадзе]]
-	*  [[heavy-guardian|укрепленный стражник]]
+	*  [[heavy-guardian|тяжелый стражник]]
 	*  
 	
 * ####  [[bosses|Боссы]]
