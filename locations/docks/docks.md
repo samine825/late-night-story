@@ -1,6 +1,6 @@
 #location
 
-# Места
+# Места  ([[docks-plan.canvas|план]])
 ---
 
 * ###  [[outskirts|Окрестности]]
