@@ -43,31 +43,31 @@
 ---
 ## [[locations|Локации]]
 
-* ####  [[police-station|Полицейский участок]]
+* ####  [[police-station|Полицейский участок]]  ([[police-station-plan.canvas|план]])
 	*  [[training-grounds|тренировочный полигон]]
 	*  [[bureau|бюро]]
 	*  [[parking|парковка]]
 	*  [[chiefs-office|офис шефа]]
 	
-* ####  [[night-club|Ночной клуб]]
+* ####  [[night-club|Ночной клуб]]  ([[night-club-plan.canvas|план]])
 	*  [[club-entrance|вход в клуб]]
 	*  [[dancing-ground|танцпол]]
 	*  [[back-of-house|служебная зона]]
 	*  [[security-room|комната охраны]]
 	
-* ####  [[outdoors|Улицы]]
+* ####  [[outdoors|Улицы]]  ([[streets-plan.canvas|план]])
 	*  [[rooftop|крыша]]
 	*  [[balconies|балконы]]
 	*  [[backyard|задний двор]]
 	*  [[sewerage|канализация]]
 	
-* ####  [[docks|Доки]]
+* ####  [[docks|Доки]]  ([[docks-plan.canvas|план]])
 	*  [[outskirts|окрестности]]
 	*  [[containers|контейнеры]]
 	*  [[loading-station|погрузочная станция]]
 	*  [[yacht|яхта]]
 	
-* ###  [[abandoned-factory|Заброшенный завод]]
+* ###  [[abandoned-factory|Заброшенный завод]]  ([[abandoned-factory-plan.canvas|план]])
 	*  [[private-territory|частная территория]]
 	*  [[secret-passage|секретный проход]]
 	*  [[warehouse|склад]]
