@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"c99f0af2ce58746b","type":"text","text":"# #plan  [[docks|Доки]]","x":-167,"y":-142,"width":227,"height":62,"color":"1"}
+	],
+	"edges":[]
+}

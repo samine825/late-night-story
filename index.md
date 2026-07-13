@@ -55,7 +55,7 @@
 	*  [[back-of-house|служебная зона]]
 	*  [[security-room|комната охраны]]
 	
-* ####  [[outdoors|Улицы]]  ([[streets-plan.canvas|план]])
+* ####  [[outdoors|Улицы]]  ([[outdoors-plan.canvas|план]])
 	*  [[rooftop|крыша]]
 	*  [[balconies|балконы]]
 	*  [[backyard|задний двор]]

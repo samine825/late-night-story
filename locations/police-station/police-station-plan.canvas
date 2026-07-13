@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"acb0a7cbd41ab4eb","type":"text","text":"# #plan  [[police-station|Полицейский участок]]","x":-56,"y":-223,"width":436,"height":63,"color":"#2159ca"}
+	],
+	"edges":[]
+}

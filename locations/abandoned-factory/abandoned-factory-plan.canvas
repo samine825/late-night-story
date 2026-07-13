@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"a47dd9ddd237c23a","type":"text","text":"# #plan  [[abandoned-factory|Заброшенная фабрика]]","x":-152,"y":-140,"width":452,"height":60,"color":"2"}
+	],
+	"edges":[]
+}
