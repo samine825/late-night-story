@@ -1,5 +1,5 @@
 #beu
 
-[[beu-movement]]
-[[beu-abilities]]
-[[beu-mechanics]]
+* #  [[beu-movement|Передвижение]]
+* #  [[beu-abilities|Способности]]
+* #  [[beu-mechanics|Механики]]

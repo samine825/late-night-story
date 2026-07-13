@@ -15,13 +15,13 @@
 	
 * ####  [[point-and-click|Point and Click]]
 	*  [[pnc-movement|передвижение]]
-	*  [[pnc-mechanics|механики]]
 	*  [[pnc-abilities|способности]]
+	*  [[pnc-mechanics|механики]]
 	
 * ####  [[beat-em-up|Beat Em Up]]
 	*  [[beu-movement|передвижение]]
-	*  [[beu-mechanics|механики]]
 	*  [[beu-abilities|способности]]
+	*  [[beu-mechanics|механики]]
 	
 
 
