@@ -1,6 +1,20 @@
 {
 	"nodes":[
-		{"id":"acb0a7cbd41ab4eb","type":"text","text":"# #plan  [[police-station|Полицейский участок]]","x":-56,"y":-223,"width":436,"height":63,"color":"#2159ca"}
+		{"id":"acb0a7cbd41ab4eb","type":"text","text":"# #plan  [[police-station|Полицейский участок]]","x":-56,"y":-280,"width":436,"height":63,"color":"#2159ca"},
+		{"id":"6e3762257ec76766","x":-39,"y":-40,"width":403,"height":60,"type":"text","text":"# [[training-grounds|Тренировочные полигоны]]"},
+		{"id":"2ad95926bb3506a8","x":100,"y":80,"width":125,"height":60,"type":"text","text":"# [[bureau|Бюро]]"},
+		{"id":"63990cf398baba26","x":680,"y":80,"width":280,"height":60,"type":"text","text":"# [[chiefs-office|Офис начальника]]"},
+		{"id":"b053487ac2aad739","x":695,"y":200,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ab4336db8b2c07de","x":-360,"y":80,"width":179,"height":60,"type":"text","text":"# [[parking|Парковка]]"},
+		{"id":"64ea70f68a106614","x":-395,"y":200,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"8639305907027255","fromNode":"acb0a7cbd41ab4eb","fromSide":"bottom","toNode":"6e3762257ec76766","toSide":"top","label":"Эпилог"},
+		{"id":"ff21f64c52c0a668","fromNode":"6e3762257ec76766","fromSide":"bottom","toNode":"2ad95926bb3506a8","toSide":"top"},
+		{"id":"479dca162f8561dc","fromNode":"ab4336db8b2c07de","fromSide":"bottom","toNode":"64ea70f68a106614","toSide":"top"},
+		{"id":"f4bb62f36a6c3edf","fromNode":"2ad95926bb3506a8","fromSide":"right","toNode":"63990cf398baba26","toSide":"left","fromEnd":"arrow","label":"Акт II\n(Секретный путь)"},
+		{"id":"ebe132545430d136","fromNode":"63990cf398baba26","fromSide":"bottom","toNode":"b053487ac2aad739","toSide":"top"},
+		{"id":"fe62a23559e1dfcd","fromNode":"ab4336db8b2c07de","fromSide":"right","toNode":"2ad95926bb3506a8","toSide":"left","fromEnd":"arrow","label":"Эпилог"},
+		{"id":"7b8c41d2f248a58e","fromNode":"acb0a7cbd41ab4eb","fromSide":"right","toNode":"63990cf398baba26","toSide":"top","label":"Акт II\n(Секретный путь)"}
+	]
 }

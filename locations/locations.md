@@ -3,20 +3,8 @@
 # Локации
 ---
 
-* #  [[police-station#Описание|Полицейский участок]] ([[police-station#^7ab330|план]])
-	* ##  [[police-station#^177919|Тренировочный полигон]]
-	* ##  [[police-station#^7dacae|Бюро]]
-	* ##  [[police-station#^9a4ef6|Парковка]]
-	* ##  [[police-station#^b32602|Офис начальника]]
-	
-* #  [[night-club|Ночной клуб]]
-	* ##  [[night-club#^f424d6|Вход в клуб]]
-	* ##  [[night-club#^239941|Танцпол]]
-	* ##  [[night-club#^dd1843|Служебная зона]]
-	
-* #  [[outdoors|Улицы]]
-	
-* #  [[docks|Доки]]
-	
-* #  [[abandoned-factory|Заброшенный завод]]
-	
+0. ###  [[police-station#Описание|Полицейский участок]]  ([[police-station-plan.canvas|план]])
+1. ###  [[night-club#Описание|Ночной клуб]]  ([[night-club-plan.canvas|план]])
+2. ###  [[outdoors#Описание|Улицы]]  ([[outdoors-plan.canvas|план]])
+3. ###  [[docks#Описание|Доки]]  ([[docks-plan.canvas|план]])
+4. ###  [[abandoned-factory#Описание|Заброшенный завод]]  ([[abandoned-factory-plan.canvas|план]])

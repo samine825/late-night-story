@@ -1,17 +1,13 @@
 {
 	"nodes":[
-		{"id":"6e7abbe231005907","type":"text","text":"![[club-entrance#^37047f]]","x":-222,"y":-20,"width":403,"height":120},
-		{"id":"de2f4ed5cc6716b9","type":"text","text":"![[club-entrance#^f1eb81]]","x":-218,"y":320,"width":395,"height":90},
-		{"id":"9fd638064c9c0374","type":"text","text":"![[club-entrance#^1fa9d8]]","x":240,"y":300,"width":452,"height":110},
-		{"id":"d07c381d6c1a3a8d","type":"text","text":"![[club-entrance#^a34749]]","x":-218,"y":160,"width":395,"height":80},
+		{"id":"8629dea450a0e3ab","x":223,"y":363,"width":250,"height":60,"type":"text","text":""},
 		{"id":"1e78415d943ed518","type":"text","text":"# #plan  [[night-club|Ночной клуб]]","x":-182,"y":-220,"width":322,"height":60,"color":"6"},
-		{"id":"63441e3b01eb183a","type":"text","text":"### [[club-entrance|Вход в клуб]]","x":-107,"y":-120,"width":173,"height":50}
+		{"id":"63441e3b01eb183a","type":"text","text":"### [[club-entrance|Вход в клуб]]","x":-194,"y":67,"width":173,"height":50},
+		{"id":"f67c5bb8a747e0af","x":60,"y":7,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2981a93207ac920d","x":-190,"y":239,"width":250,"height":60,"type":"text","text":""},
+		{"id":"dd754f92b07cc23b","x":88,"y":163,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"0a7377f33ceb1c08","fromNode":"63441e3b01eb183a","fromSide":"bottom","toNode":"6e7abbe231005907","toSide":"top"},
-		{"id":"d05d52ac014696b0","fromNode":"6e7abbe231005907","fromSide":"bottom","toNode":"d07c381d6c1a3a8d","toSide":"top"},
-		{"id":"df3012324dc758fd","fromNode":"d07c381d6c1a3a8d","fromSide":"bottom","toNode":"de2f4ed5cc6716b9","toSide":"top"},
-		{"id":"51c311ed936948cf","fromNode":"d07c381d6c1a3a8d","fromSide":"right","toNode":"9fd638064c9c0374","toSide":"top"},
 		{"id":"90875e969b33a4be","fromNode":"1e78415d943ed518","fromSide":"bottom","toNode":"63441e3b01eb183a","toSide":"top"}
 	]
 }
