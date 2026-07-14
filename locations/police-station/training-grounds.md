@@ -1,6 +1,6 @@
 #location [[police-station| Полицейский участок ]]
 
-[[chiefs-office| Назад ]] - [[training-grounds| 0 ]] - [[bureau| 1 ]] - [[parking| 2 ]] - [[chiefs-office| 3 ]] - [[bureau| Вперед ]]
+[[chiefs-office| Назад ]] -  0  - [[bureau| 1 ]] - [[parking| 2 ]] - [[chiefs-office| 3 ]] - [[bureau| Вперед ]]
 
 # Описание
 ---

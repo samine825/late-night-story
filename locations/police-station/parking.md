@@ -1,6 +1,6 @@
-#location [[police-station| Родительская локация ]]
+#location [[police-station| Полицейский участок ]]
 
-[[chiefs-office| Назад ]] - [[training-grounds| 0 ]] - [[bureau| 1 ]] - [[parking| 2 ]] - [[chiefs-office| 3 ]] - [[bureau| Вперед ]]
+[[bureau| Назад ]] - [[training-grounds| 0 ]] - [[bureau| 1 ]] -  2  - [[chiefs-office| 3 ]] - [[chiefs-office| Вперед ]]
 
 # Описание
 ---
@@ -11,12 +11,11 @@
 # Места интереса
 ---
 
-* ###  Полицейский участок ^a61aa2
+* ###  Земля участка ^a6ec5d
 	*  **[[bureau#Описание|Пройти]]** --> Вход в полицейский участок
 	*  **[[club-entrance#Описание|Пройти]]** --> Машина ^85fc89
 	
-* ###  Округа
-	 ^6cc4f6
+* ###  Округа ^6cc4f6
 	*  **[[parking#^084ba0|Осмотреть]]** --> Рой [[watcher-drone|дронов-наблюдателей]] ^4b7deb
 	
 
@@ -25,6 +24,5 @@
 >  
 >  [[parking#^4b7deb|Дроны-наблюдатели]] сторожат местность.
 >  
-
 ^084ba0
 
