@@ -1,4 +1,4 @@
-#location [[night-club#Описание| Ночной клуб ]]
+#room [[night-club#Описание| Ночной клуб ]]
 
 [[security-room| Назад ]] -  0  - [[dancing-ground| 1 ]] - [[back-of-house| 2 ]] - [[security-room| 3 ]] - [[dancing-ground| Вперед ]]
 
@@ -26,7 +26,7 @@
 	*  **Сломать** --> Решетка [[club-entrance#^1fa9d8|переулка]] ^c8cdac
 	
 * ###  Внешний двор клуба
-	*  **Диалог** --> [[buffed-rat#Описание|Вышибала]]
+	*  **Диалог** --> [[club-guard|Вышибала]]
 	*  **[[dancing-ground#Описание|Пройти]]** --> Дверь ведущая на танцпол
 	
 * ###  Темный переулок

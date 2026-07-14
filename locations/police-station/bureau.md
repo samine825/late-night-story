@@ -1,4 +1,4 @@
-#location [[police-station| Полицейский участок ]]
+#room [[police-station| Полицейский участок ]]
 
 [[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[parking| 2 ]] - [[chiefs-office| 3 ]] - [[parking| Вперед ]]
 

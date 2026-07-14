@@ -1,4 +1,6 @@
-#location 
+#room [[abandoned-factory#Описание| Заброшенная фабрика ]]
+
+[[warehouse| Назад ]] - [[private-territory| 0 ]] - [[secret-passage| 1 ]] - [[warehouse| 2 ]] -  3  - [[private-territory| Вперед ]]
 
 # Описание
 ---

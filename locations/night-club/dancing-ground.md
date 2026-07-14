@@ -1,4 +1,4 @@
-#location [[night-club#Описание| Ночной клуб ]]
+#room [[night-club#Описание| Ночной клуб ]]
 
 [[club-entrance| Назад ]] - [[club-entrance| 0 ]] -  1  - [[back-of-house| 2 ]] - [[security-room| 3 ]] - [[back-of-house| Вперед ]]
 

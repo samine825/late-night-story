@@ -1,4 +1,6 @@
-#location
+#room [[abandoned-factory#Описание| Заброшенная фабрика ]]
+
+[[conveyor-belt| Назад ]] -  0  - [[secret-passage| 1 ]] - [[warehouse| 2 ]] - [[conveyor-belt| 3 ]] - [[secret-passage| Вперед ]]
 
 # Описание
 ---

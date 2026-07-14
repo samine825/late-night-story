@@ -1,4 +1,4 @@
-#location [[docks#Описание| Доки ]]
+#room [[docks#Описание| Доки ]]
 
 [[containers| Назад ]] - [[outskirts| 0 ]] - [[containers| 1 ]] -  2  - [[yacht| 3 ]] - [[yacht| Вперед ]]
 
