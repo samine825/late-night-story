@@ -1,5 +1,6 @@
 #location 
 
+[[docks| Назад ]] - [[locations| Локации ]] - [[police-station| Вперед ]]
 # Описание
 ---
 >  

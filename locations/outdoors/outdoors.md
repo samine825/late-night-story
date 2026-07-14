@@ -1,5 +1,6 @@
 #location
 
+[[night-club| Назад ]] - [[locations| Локации ]] - [[docks| Вперед ]]
 # Описание
 ---
 >  

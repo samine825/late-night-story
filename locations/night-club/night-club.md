@@ -1,5 +1,6 @@
 #location 
 
+[[police-station| Назад ]] - [[locations| Локации ]] - [[outdoors| Вперед ]]
 # Описание
 ---
 >  

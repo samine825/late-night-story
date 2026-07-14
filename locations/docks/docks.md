@@ -1,5 +1,6 @@
 #location
 
+[[outdoors| Назад ]] - [[locations| Локации ]] - [[abandoned-factory| Вперед ]]
 # Описание
 ---
 >  
