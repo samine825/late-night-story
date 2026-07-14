@@ -1,8 +1,6 @@
-#location
+#location [[locations#Локации| Локации ]]
 
-[[outdoors| Назад ]] - [[locations#Локации| Локации ]] - [[abandoned-factory| Вперед ]]
-
-[[police-station| Участок ]] - [[night-club| Клуб ]] - [[outdoors| Улицы ]] -  Доки  - [[abandoned-factory| Завод ]]
+[[outdoors| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[outdoors| 2 ]] -  3  - [[abandoned-factory| 4 ]] - [[abandoned-factory| Вперед ]]
 
 # Описание
 ---
@@ -19,7 +17,7 @@
 * ###  [[yacht#Описание|Яхта]]
 
 
-# Музыка
+# Музыкальная тема
 ---
 
 * ###  [[4-297-064-448.mp3|4 297 064 448]]

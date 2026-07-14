@@ -1,8 +1,6 @@
-#location 
+#location [[locations#Локации| Локации ]]
 
-[[police-station| Назад ]] - [[locations#Локации| Локации ]] - [[outdoors| Вперед ]]
-
-[[police-station| Участок ]] -  Клуб  - [[outdoors| Улицы ]] - [[docks| Доки ]] - [[abandoned-factory| Завод ]]
+[[police-station| Назад ]] - [[police-station| 0 ]] -  1  - [[outdoors| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[outdoors| Вперед ]]
 
 # Описание
 ---

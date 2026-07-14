@@ -1,8 +1,6 @@
-#location 
+#location [[locations#Локации| Локации ]]
 
-[[abandoned-factory| Назад ]] - [[locations#Локации| Локации ]] - [[night-club| Вперед ]]
-
- Участок  - [[night-club| Клуб ]] - [[outdoors| Улицы ]] - [[docks| Доки ]] - [[abandoned-factory| Завод ]]
+[[abandoned-factory| Назад ]] -  0  - [[night-club| 1 ]] - [[outdoors| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[night-club| Вперед ]]
 
 # Описание
 ---

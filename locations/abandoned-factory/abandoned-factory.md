@@ -1,8 +1,6 @@
-#location 
+#location [[locations#Локации| Локации ]]
 
-[[docks| Назад ]] - [[locations#Локации| Локации ]] - [[police-station| Вперед ]]
-
-[[police-station| Участок ]] - [[night-club| Клуб ]] - [[outdoors| Улицы ]] - [[docks| Доки ]] -  Завод 
+[[docks| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[outdoors| 2 ]] - [[docks| 3 ]] -  4  - [[police-station| Вперед ]]
 
 # Описание
 ---
@@ -19,7 +17,7 @@
 * ###  [[conveyor-belt#Описание|Конвейерная лента]]
 
 
-# Музыка
+# Музыкальная тема
 ---
 
 * ###  [[4-400-193-994-752.mp3|4 400 193 994 752]]
