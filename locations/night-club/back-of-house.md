@@ -1,4 +1,6 @@
-#location
+#location [[night-club#Описание| Ночной клуб ]]
+
+[[dancing-ground| Назад ]] - [[club-entrance| 0 ]] - [[dancing-ground| 1 ]] -  2  - [[security-room| 3 ]] - [[security-room| Вперед ]]
 
 # Музыкальная тема
 ---

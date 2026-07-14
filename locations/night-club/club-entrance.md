@@ -1,4 +1,6 @@
-#location [[night-club| Родительская локация ]]
+#location [[night-club#Описание| Ночной клуб ]]
+
+[[security-room| Назад ]] -  0  - [[dancing-ground| 1 ]] - [[back-of-house| 2 ]] - [[security-room| 3 ]] - [[dancing-ground| Вперед ]]
 
 # Описание
 ---

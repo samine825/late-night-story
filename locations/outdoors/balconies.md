@@ -1,4 +1,6 @@
-#location 
+#location [[outdoors#Описание| Улицы ]]
+
+[[rooftop| Назад ]] - [[rooftop| 0 ]] -  1  - [[backyard| 2 ]] - [[sewerage| 3 ]] - [[backyard| Вперед ]]
 
 # Музыкальная тема
 ---
