@@ -1,4 +1,12 @@
-#location
+#location [[docks#Описание| Доки ]]
+
+[[yacht| Назад ]] -  0  - [[containers| 1 ]] - [[loading-station| 2 ]] - [[yacht| 3 ]] - [[containers| Вперед ]]
+
+# Описание
+---
+>  
+>  ...
+>  
 
 # Враги
 ---

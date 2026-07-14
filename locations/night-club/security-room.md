@@ -2,6 +2,13 @@
 
 [[back-of-house| Назад ]] - [[club-entrance| 0 ]] - [[dancing-ground| 1 ]] - [[back-of-house| 2 ]] -  3  - [[club-entrance| Вперед ]]
 
+# Описание
+---
+>  
+>  ...
+>  
+
+
 # Места интереса
 ---
 
