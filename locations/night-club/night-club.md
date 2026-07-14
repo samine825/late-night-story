@@ -1,20 +1,22 @@
 #location 
 
-[[police-station| Назад ]] - [[locations| Локации ]] - [[outdoors| Вперед ]]
+[[police-station| Назад ]] - [[locations#Локации| Локации ]] - [[outdoors| Вперед ]]
+
+[[police-station| Участок ]] -  Клуб  - [[outdoors| Улицы ]] - [[docks| Доки ]] - [[abandoned-factory| Завод ]]
+
 # Описание
 ---
 >  
->  Громкий крысиный ночной клуб в темных переулках.
+>  Громкий ночной клуб в глубинах темных переулков крысиных гетто.
 >  
 
-
-# Места  ([[night-club-plan.canvas|план]])
+# [[night-club-plan.canvas|Места]]
 ---
 
-* ###  [[club-entrance|Вход в клуб]]
-* ###  [[dancing-ground|Танцпол]]
-* ###  [[back-of-house|Служебная зона]]
-* ###  [[security-room|Комната охраны]]
+* ###  [[club-entrance#Описание|Вход в клуб]]
+* ###  [[dancing-ground#Описание|Танцпол]]
+* ###  [[back-of-house#Описание|Служебная зона]]
+* ###  [[security-room#Описание|Комната охраны]]
 
 
 # Музыкальная тема

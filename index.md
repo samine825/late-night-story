@@ -1,7 +1,7 @@
 #index #pnc #beu #story #location #character #gameplay 
 
 # [[TODO]]
-# [[late-night-story]]
+# [[late-night-story#Описание|Late Night Story]]
 
 ---
 ## Геймплей
@@ -26,28 +26,28 @@
 
 
 ---
-## [[story|История]]
+## [[story#Плот|История]]
 
 * ####  Дизайн персонажей
-	*  [[mice|Мыши]]
-	*  [[rats|Крысы]]
-	*  [[robots|Роботы]]
+	*  [[mice#Внешний вид|Мыши]]
+	*  [[rats#Внешний вид|Крысы]]
+	*  [[robots#Внешний вид|Роботы]]
 	
 * #### Хронология
-	1. [[epilogue|Обучение]]
-	2. [[act-1|Акт I]]
-	3. [[act-2|Акт II]]
-	4. [[act-3|Акт III]]
+	1. [[epilogue#Сценарий|Обучение]]
+	2. [[act-1#Сценарий|Акт I]]
+	3. [[act-2#Сценарий|Акт II]]
+	4. [[act-3#Сценарий|Акт III]]
 	
 
 ---
 ## [[locations|Локации]]
 
-* ####  [[police-station|Полицейский участок]]  ([[police-station-plan.canvas|план]])
-	*  [[training-grounds|тренировочный полигон]]
-	*  [[bureau|бюро]]
-	*  [[parking|парковка]]
-	*  [[chiefs-office|офис шефа]]
+* ####  [[police-station#Описание|Полицейский участок]]  ([[police-station-plan.canvas|план]])
+	*  [[training-grounds#Описание|тренировочный полигон]]
+	*  [[bureau#Описание|бюро]]
+	*  [[parking#Описание|парковка]]
+	*  [[chiefs-office#Описание|офис шефа]]
 	
 * ####  [[night-club|Ночной клуб]]  ([[night-club-plan.canvas|план]])
 	*  [[club-entrance|вход в клуб]]

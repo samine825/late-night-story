@@ -1,20 +1,22 @@
 #location
 
-[[night-club| Назад ]] - [[locations| Локации ]] - [[docks| Вперед ]]
+[[night-club| Назад ]] - [[locations#Локации| Локации ]] - [[docks| Вперед ]]
+
+[[police-station| Участок ]] - [[night-club| Клуб ]] -  Улицы  - [[docks| Доки ]] - [[abandoned-factory| Завод ]]
+
 # Описание
 ---
 >  
 >  Земля при ночном клубе. Места погони и побега.
 >  
 
-
-# Места  ([[outdoors-plan.canvas|план]])
+# [[outdoors-plan.canvas|Места]]
 ---
 
-* ###  [[rooftop|Крыша]]
-* ###  [[balconies|Балконы]]
-* ###  [[backyard|Задний двор]]
-* ###  [[sewerage|Канализация]]
+* ###  [[rooftop#Описание|Крыша]]
+* ###  [[balconies#Описание|Балконы]]
+* ###  [[backyard#Описание|Задний двор]]
+* ###  [[sewerage#Описание|Канализация]]
 
 
 # Музыкальная тема

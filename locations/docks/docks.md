@@ -1,20 +1,22 @@
 #location
 
-[[outdoors| Назад ]] - [[locations| Локации ]] - [[abandoned-factory| Вперед ]]
+[[outdoors| Назад ]] - [[locations#Локации| Локации ]] - [[abandoned-factory| Вперед ]]
+
+[[police-station| Участок ]] - [[night-club| Клуб ]] - [[outdoors| Улицы ]] -  Доки  - [[abandoned-factory| Завод ]]
+
 # Описание
 ---
 >  
 >  Доки под контролем крысиной мафии. Используется для отмывания денег; транспортировки, хранения и продажи роботов.
 >  
 
-
-# Места  ([[docks-plan.canvas|план]])
+# [[docks-plan.canvas|Места]]
 ---
 
-* ###  [[outskirts|Окрестности]]
-* ###  [[containers|Контейнеры]]
-* ###  [[loading-station|Погрузочная станция]]
-* ###  [[yacht|Яхта]]
+* ###  [[outskirts#Описание|Окрестности]]
+* ###  [[containers#Описание|Контейнеры]]
+* ###  [[loading-station#Описание|Погрузочная станция]]
+* ###  [[yacht#Описание|Яхта]]
 
 
 # Музыка
