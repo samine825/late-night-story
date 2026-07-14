@@ -3,15 +3,15 @@
 		{"id":"d311686c2154597c","type":"text","text":"# [[bureau#^d95b22|Рабочее пространство]]","x":60,"y":100,"width":240,"height":80},
 		{"id":"6e3762257ec76766","type":"text","text":"# [[training-grounds#Описание|Тренировочные полигоны]]","x":40,"y":-40,"width":280,"height":80},
 		{"id":"acb0a7cbd41ab4eb","type":"text","text":"# #plan  [[police-station#Описание|Полицейский участок]]","x":-40,"y":-200,"width":440,"height":83,"color":"#2159ca"},
-		{"id":"64ea70f68a106614","type":"text","text":"# [[club-entrance#Описание|Вход в клуб]]","x":-340,"y":-200,"width":220,"height":80},
 		{"id":"e6bf645772aa1eb8","type":"text","text":"# [[parking#^6cc4f6|Округа]]","x":-600,"y":-60,"width":140,"height":80},
 		{"id":"9e2127f156ffcbd6","type":"text","text":"# [[bureau#^3ecb89|Доска информации]]","x":280,"y":200,"width":220,"height":80},
 		{"id":"2ad95926bb3506a8","type":"text","text":"# [[bureau#Описание|Бюро]]","x":120,"y":320,"width":120,"height":80},
 		{"id":"0864a7f84bdb96ff","type":"text","text":"# [[bureau#^3861a8|Уголок отдыха]]","x":-160,"y":200,"width":240,"height":80},
-		{"id":"ab4336db8b2c07de","type":"text","text":"# [[parking#^a6ec5d|Земля участка]]","x":-320,"y":-40,"width":180,"height":80},
-		{"id":"5aa5a73241fc6aec","type":"text","text":"# [[parking#Описание|Парковка]]","x":-500,"y":140,"width":180,"height":80},
 		{"id":"b053487ac2aad739","type":"text","text":"# [[outskirts#Описание|Окрестности]]","x":520,"y":120,"width":240,"height":80},
-		{"id":"63990cf398baba26","type":"text","text":"# [[chiefs-office#Описание|Офис начальника]]","x":500,"y":-40,"width":280,"height":80}
+		{"id":"63990cf398baba26","type":"text","text":"# [[chiefs-office#Описание|Офис начальника]]","x":500,"y":-40,"width":280,"height":80},
+		{"id":"64ea70f68a106614","type":"text","text":"# [[club-entrance#Описание|Вход в клуб]]","x":-360,"y":-200,"width":220,"height":80},
+		{"id":"ab4336db8b2c07de","type":"text","text":"# [[parking#^a6ec5d|Земля участка]]","x":-340,"y":-40,"width":180,"height":80},
+		{"id":"5aa5a73241fc6aec","type":"text","text":"# [[parking#Описание|Парковка]]","x":-520,"y":140,"width":180,"height":80}
 	],
 	"edges":[
 		{"id":"7b8c41d2f248a58e","fromNode":"acb0a7cbd41ab4eb","fromSide":"right","toNode":"63990cf398baba26","toSide":"top","label":"Акт II\n(Секретный путь)"},
