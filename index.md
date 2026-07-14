@@ -1,6 +1,6 @@
 #index #story #location #character #gameplay 
 
-# [[lfah|Looking for a Home]]
+# [[lfah#Предметы/способности|Looking for a Home]]
 # [[late-night-story#Описание|Late Night Story]]
 # [[todo|TODO]]
 
@@ -28,10 +28,10 @@
 	*  [[robots#Внешний вид|Роботы]]
 	
 * #### Хронология
-	1. [[epilogue#Цели|Обучение]]
-	2. [[act-1#Цели|Акт I]]
-	3. [[act-2#Цели|Акт II]]
-	4. [[act-3#Цели|Акт III]]
+	1. [[epilogue#Сценарий|Обучение]]
+	2. [[act-1#Сценарий|Акт I]]
+	3. [[act-2#Сценарий|Акт II]]
+	4. [[act-3#Сценарий|Акт III]]
 	
 
 ---
@@ -40,7 +40,7 @@
 * ####  [[police-station#Описание|Полицейский участок]]  ([[police-station-plan.canvas|план]])
 	*  [[training-grounds#Описание|тренировочный полигон]]
 	*  [[bureau#Описание|бюро]]
-	*  [[parking#Описание|парковка]]
+	*  [[parking#Описание|земля участка]]
 	*  [[chiefs-office#Описание|офис шефа]]
 	
 * ####  [[night-club#Описание|Ночной клуб]]  ([[night-club-plan.canvas|план]])
