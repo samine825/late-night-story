@@ -1,4 +1,4 @@
-#location [[locations#Локации| Локации ]] | [[act-3#Цели| Акт III ]]
+#location [[locations#Локации| Локации ]] | [[act-3#Сценарий| Акт III ]]
 
 [[docks| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[outdoors| 2 ]] - [[docks| 3 ]] -  4  - [[police-station| Вперед ]]
 
