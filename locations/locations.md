@@ -1,4 +1,4 @@
-#location
+#location [[late-night-story| Late Night Story ]]
 
 # Локации
 ---

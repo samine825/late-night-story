@@ -1,7 +1,8 @@
-#index #pnc #beu #story #location #character #gameplay 
+#index #story #location #character #gameplay 
 
-# [[TODO]]
+# [[lfah|Looking for a Home]]
 # [[late-night-story#Описание|Late Night Story]]
+# [[TODO]]
 
 ---
 ## Геймплей
@@ -10,18 +11,11 @@
 	*  [[camera|камера]]
 	*  [[controls|управление]]
 	*  [[ui|пользовательский интерфейс]]
-	*  [[dialogs|диалоги]]
 	*  [[menus|меню]]
 	
-* ####  [[point-and-click|Point and Click]]
-	*  [[pnc-movement|передвижение]]
-	*  [[pnc-abilities|способности]]
-	*  [[pnc-mechanics|механики]]
-	
-* ####  [[beat-em-up|Beat Em Up]]
-	*  [[beu-movement|передвижение]]
-	*  [[beu-abilities|способности]]
-	*  [[beu-mechanics|механики]]
+* ###  Режимы
+	*  [[point-and-click|point and click]]
+	*  [[beat-em-up|beat em up]]
 	
 
 
@@ -49,29 +43,29 @@
 	*  [[parking#Описание|парковка]]
 	*  [[chiefs-office#Описание|офис шефа]]
 	
-* ####  [[night-club|Ночной клуб]]  ([[night-club-plan.canvas|план]])
-	*  [[club-entrance|вход в клуб]]
-	*  [[dancing-ground|танцпол]]
-	*  [[back-of-house|служебная зона]]
-	*  [[security-room|комната охраны]]
+* ####  [[night-club#Описание|Ночной клуб]]  ([[night-club-plan.canvas|план]])
+	*  [[club-entrance#Описание|вход в клуб]]
+	*  [[dancing-ground#Описание|танцпол]]
+	*  [[back-of-house#Описание|служебная зона]]
+	*  [[security-room#Описание|комната охраны]]
 	
 * ####  [[outdoors|Улицы]]  ([[outdoors-plan.canvas|план]])
-	*  [[rooftop|крыша]]
-	*  [[balconies|балконы]]
-	*  [[backyard|задний двор]]
-	*  [[sewerage|канализация]]
+	*  [[rooftop#Описание|крыша]]
+	*  [[balconies#Описание|балконы]]
+	*  [[backyard#Описание|задний двор]]
+	*  [[sewerage#Описание|канализация]]
 	
 * ####  [[docks|Доки]]  ([[docks-plan.canvas|план]])
-	*  [[outskirts|окрестности]]
-	*  [[containers|контейнеры]]
-	*  [[loading-station|погрузочная станция]]
-	*  [[yacht|яхта]]
+	*  [[outskirts#Описание|окрестности]]
+	*  [[containers#Описание|контейнеры]]
+	*  [[loading-station#Описание|погрузочная станция]]
+	*  [[yacht#Описание|яхта]]
 	
 * ###  [[abandoned-factory|Заброшенный завод]]  ([[abandoned-factory-plan.canvas|план]])
-	*  [[private-territory|частная территория]]
-	*  [[secret-passage|секретный проход]]
-	*  [[warehouse|склад]]
-	*  [[conveyor-belt|конвейерная лента]]
+	*  [[private-territory#Описание|частная территория]]
+	*  [[secret-passage#Описание|секретный проход]]
+	*  [[warehouse#Описание|склад]]
+	*  [[conveyor-belt#Описание|конвейерная лента]]
 	
 
 
@@ -79,26 +73,26 @@
 ## [[characters|Персонажи]]
 
 * ####  [[npcs|NPC]]
-	*  [[police-chief|Начальник полиции]]
-	*  [[random-cops|случайные полицейские]]
-	*  [[guests|посетители]]
-	*  [[traitor-mouse|мышь-предатель]]
-	*  [[rat-cop|Офицер Энджи]]
+	*  [[police-chief#Описание|Начальник полиции]]
+	*  [[random-cops#Описание|случайные полицейские]]
+	*  [[guests#Описание|посетители]]
+	*  [[traitor-mouse#Описание|мышь-предатель]]
+	*  [[rat-cop#Описание|Офицер Энджи]]
 	
 * ####  [[enemies|Враги]]
-	*  [[training-dummy|тренировочный манекен]]
-	*  [[tennis-ball-cannon|теннисная пушка]]
-	*  [[melee-rat\|крыса-наемник]]
-	*  [[batter-rat|крыса с битой]]
-	*  [[ranger-rat\|крыса с рогаткой]]
-	*  [[buffed-rat|накачанная крыса]]
-	*  [[kneebreaker|подножка]]
+	*  [[training-dummy#Описание|тренировочный манекен]]
+	*  [[tennis-ball-cannon#Описание|теннисная пушка]]
+	*  [[melee-rat#Описание|крыса-наемник]]
+	*  [[batter-rat#Описание|крыса с битой]]
+	*  [[ranger-rat#Описание|крыса с рогаткой]]
+	*  [[buffed-rat#Описание|накачанная крыса]]
+	*  [[kneebreaker#Описание|подножка]]
 	*  
-	*  [[pressure-tube-rat|крыса с пневматикой]]
-	*  [[pipe-rat|крыса с трубой]]
-	*  [[watcher-drone|дрон наблюдатель]]
-	*  [[kamikaze-drone|дрон камикадзе]]
-	*  [[heavy-guardian|тяжелый стражник]]
+	*  [[pressure-tube-rat#Описание|крыса с пневматикой]]
+	*  [[pipe-rat#Описание|крыса с трубой]]
+	*  [[watcher-drone#Описание|дрон наблюдатель]]
+	*  [[kamikaze-drone#Описание|дрон камикадзе]]
+	*  [[heavy-guardian#Описание|тяжелый стражник]]
 	*  
 	
 * ####  [[bosses|Боссы]]

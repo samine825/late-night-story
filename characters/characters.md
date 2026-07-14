@@ -1,4 +1,4 @@
-#character
+#character [[late-night-story| Late Night Story ]]
 
 # История мира
 ---

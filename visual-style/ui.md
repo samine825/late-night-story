@@ -1,1 +1,3 @@
-#gameplay
+#gameplay [[late-night-story| Late Night Story ]]
+
+диалоги

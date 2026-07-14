@@ -1,4 +1,4 @@
-#location 
+#location [[police-station| Родительская локация ]]
 
 # Описание
 ---

@@ -1,4 +1,4 @@
-#story
+#story [[late-night-story| Late Night Story ]]
 
 # История игры
 ---
