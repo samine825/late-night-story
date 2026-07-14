@@ -24,6 +24,7 @@
 2. ###  [[robots#История|Роботы]]
 
 
+---
 <h2 style="background: hsla(220, 100%, 80%, 0.2); display:block; margin: 2rem; padding: 8px; text-align: center; border-radius: 18px; border: 4px solid hsla(220, 40%, 5%, 0.2); box-shadow: 0 0 25px hsla(220, 80%, 40%, 0.2); text-shadow: 0 0 15px hsla(220, 20%, 80%, 0.4)">Обсуждение концовки</h2>
 
 > 
@@ -47,7 +48,7 @@
 > 
 
 > 
-> 
+> ...
 > 
 
 ^744f4f
