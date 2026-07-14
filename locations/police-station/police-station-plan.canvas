@@ -1,12 +1,15 @@
 {
 	"nodes":[
 		{"id":"acb0a7cbd41ab4eb","type":"text","text":"# #plan  [[police-station|Полицейский участок]]","x":-56,"y":-280,"width":436,"height":63,"color":"#2159ca"},
-		{"id":"6e3762257ec76766","x":-39,"y":-40,"width":403,"height":60,"type":"text","text":"# [[training-grounds|Тренировочные полигоны]]"},
-		{"id":"2ad95926bb3506a8","x":100,"y":80,"width":125,"height":60,"type":"text","text":"# [[bureau|Бюро]]"},
-		{"id":"63990cf398baba26","x":680,"y":80,"width":280,"height":60,"type":"text","text":"# [[chiefs-office|Офис начальника]]"},
-		{"id":"b053487ac2aad739","x":695,"y":200,"width":250,"height":60,"type":"text","text":""},
-		{"id":"ab4336db8b2c07de","x":-360,"y":80,"width":179,"height":60,"type":"text","text":"# [[parking|Парковка]]"},
-		{"id":"64ea70f68a106614","x":-395,"y":200,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6e3762257ec76766","type":"text","text":"# [[training-grounds|Тренировочные полигоны]]","x":-39,"y":-40,"width":403,"height":60},
+		{"id":"2ad95926bb3506a8","type":"text","text":"# [[bureau|Бюро]]","x":100,"y":80,"width":125,"height":60},
+		{"id":"63990cf398baba26","type":"text","text":"# [[chiefs-office|Офис начальника]]","x":680,"y":80,"width":280,"height":60},
+		{"id":"ab4336db8b2c07de","type":"text","text":"# [[parking|Парковка]]","x":-360,"y":80,"width":179,"height":60},
+		{"id":"64ea70f68a106614","type":"text","text":"","x":-395,"y":500,"width":250,"height":60},
+		{"id":"b053487ac2aad739","type":"text","text":"","x":695,"y":500,"width":250,"height":60},
+		{"id":"9e2127f156ffcbd6","x":430,"y":198,"width":250,"height":60,"type":"text","text":"# "},
+		{"id":"d311686c2154597c","x":114,"y":300,"width":250,"height":60,"type":"text","text":""},
+		{"id":"0864a7f84bdb96ff","x":-181,"y":198,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"8639305907027255","fromNode":"acb0a7cbd41ab4eb","fromSide":"bottom","toNode":"6e3762257ec76766","toSide":"top","label":"Эпилог"},
