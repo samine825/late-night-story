@@ -1,4 +1,4 @@
-#location [[locations#Локации| Локации ]]
+#location [[locations#Локации| Локации ]] | [[act-1#Цели| Акт I ]]
 
 [[police-station| Назад ]] - [[police-station| 0 ]] -  1  - [[outdoors| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[outdoors| Вперед ]]
 

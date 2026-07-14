@@ -1,4 +1,4 @@
-#location [[locations#Локации| Локации ]]
+#location [[locations#Локации| Локации ]] | [[act-1#Цели| Акт I ]]
 
 [[night-club| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] -  2  - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[docks| Вперед ]]
 
