@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"fcac374696c9561d","x":-260,"y":-180,"width":1060,"height":1060,"type":"group","label":"Доки"},
+		{"id":"fcac374696c9561d","type":"group","x":-260,"y":-180,"width":1060,"height":1060,"label":"Доки"},
 		{"id":"11cd2f24bc7c156f","type":"text","text":"# Верха","x":-140,"y":440,"width":160,"height":60,"color":"6"},
 		{"id":"957be4afa4104144","type":"text","text":"# Яхта","x":-120,"y":800,"width":120,"height":60},
 		{"id":"72e82b718c336081","type":"text","text":"# Ящики","x":100,"y":440,"width":160,"height":60,"color":"6"},
@@ -16,10 +16,10 @@
 		{"id":"247d860f9af0701c","type":"text","text":"# Обочина","x":440,"y":-160,"width":160,"height":60,"color":"6"},
 		{"id":"0d09cf82ea41e6a2","type":"text","text":"# Решетка","x":20,"y":80,"width":160,"height":60,"color":"6"},
 		{"id":"7587164192103294","type":"text","text":"# Канализационный сток","x":-180,"y":-40,"width":360,"height":60,"color":"6"},
-		{"id":"2d7c15714a9d3669","type":"text","text":"# Защищенный контейнер","x":160,"y":200,"width":360,"height":60,"color":"6"},
-		{"id":"e1be855fe266659a","type":"text","text":"# Погрузочная станция","x":180,"y":560,"width":320,"height":60},
-		{"id":"70c13f9ca5032de4","type":"text","text":"# Панель управления","x":440,"y":320,"width":320,"height":60,"color":"1"},
-		{"id":"eebf2b842e826605","type":"text","text":"# Вышка","x":520,"y":440,"width":160,"height":60,"color":"6"}
+		{"id":"70c13f9ca5032de4","type":"text","text":"# Панель управления","x":460,"y":320,"width":320,"height":60,"color":"1"},
+		{"id":"eebf2b842e826605","type":"text","text":"# Вышка","x":540,"y":440,"width":160,"height":60,"color":"6"},
+		{"id":"2d7c15714a9d3669","type":"text","text":"# Защищенный контейнер","x":180,"y":200,"width":360,"height":60,"color":"6"},
+		{"id":"e1be855fe266659a","type":"text","text":"# Погрузочная станция","x":200,"y":560,"width":320,"height":60}
 	],
 	"edges":[
 		{"id":"12fe6c87993c828a","fromNode":"c99f0af2ce58746b","fromSide":"left","toNode":"7587164192103294","toSide":"top","color":"#2159ca"},
