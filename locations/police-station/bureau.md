@@ -1,6 +1,6 @@
 #room [[police-station| Полицейский участок ]]
 
-[[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[parking| 2 ]] - [[chiefs-office| 3 ]] - [[parking| Вперед ]]
+[[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[police-island| 2 ]] - [[chiefs-office| 3 ]] - [[police-island| Вперед ]]
 
 # Описание
 ---
@@ -63,7 +63,7 @@
 	*  **[[bureau#^8d38fa|Обыскать]]** --> Выдвижной ящик ^6c9759
 		* *Нужно получить ключ от дежурного!*
 		
-	*  **[[parking#Описание|Пройти]]** --> Выход на парковку
+	*  **[[police-island#Описание|Пройти]]** --> Выход на парковку
 		*  *Доступно только в [[epilogue#Сценарий|эпилоге]]!*
 		
 	

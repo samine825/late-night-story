@@ -40,7 +40,7 @@
 * ####  [[police-station#Описание|Полицейский участок]]  ([[police-station-plan.canvas|план]])
 	*  [[training-grounds#Описание|тренировочный полигон]]
 	*  [[bureau#Описание|бюро]]
-	*  [[parking#Описание|земля участка]]
+	*  [[police-island#Описание|земля участка]]
 	*  [[chiefs-office#Описание|офис шефа]]
 	
 * ####  [[night-club#Описание|Ночной клуб]]  ([[night-club-plan.canvas|план]])
