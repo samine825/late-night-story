@@ -9,7 +9,8 @@
 		{"id":"94d6a9dfd24537be","type":"text","text":"# Окрестности","x":-160,"y":-40,"width":240,"height":60},
 		{"id":"60689ff8e74d3b1c","type":"text","text":"# Контейнеры","x":-80,"y":320,"width":240,"height":60},
 		{"id":"e1be855fe266659a","type":"text","text":"# Погрузочная станция","x":-120,"y":420,"width":320,"height":60},
-		{"id":"957be4afa4104144","type":"text","text":"# Яхта","x":-20,"y":520,"width":120,"height":60}
+		{"id":"957be4afa4104144","type":"text","text":"# Яхта","x":-20,"y":520,"width":120,"height":60},
+		{"id":"9ec3282f30f1aabb","type":"text","text":"# #plan  [[abandoned-factory#Описание|Заброшенная фабрика]]","x":-480,"y":600,"width":440,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"12fe6c87993c828a","fromNode":"c99f0af2ce58746b","fromSide":"left","toNode":"7587164192103294","toSide":"top","color":"#2159ca"},
