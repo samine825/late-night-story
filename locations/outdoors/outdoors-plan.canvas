@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"15446a4388d3f379","x":-720,"y":120,"width":1840,"height":580,"type":"group","label":"Улицы"},
 		{"id":"9cc6f7c7d85ec8e9","type":"text","text":"","x":140,"y":260,"width":240,"height":60,"color":"#2159ca"},
 		{"id":"891b23f95127e561","type":"text","text":"","x":440,"y":260,"width":240,"height":60,"color":"#2159ca"},
 		{"id":"00f73451cc9f484d","type":"text","text":"","x":440,"y":500,"width":240,"height":60,"color":"#2159ca"},
