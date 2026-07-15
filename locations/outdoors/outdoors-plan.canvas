@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"60b0fb4e19171ba6","x":-152,"y":-101,"width":232,"height":60,"color":"#700067","type":"text","text":"# #plan  [[outdoors|Улицы]]"}
+		{"id":"60b0fb4e19171ba6","type":"text","text":"# #plan  [[outdoors|Улицы]]","x":-160,"y":-100,"width":240,"height":60,"color":"#2159ca"},
+		{"id":"d3e9de8541549284","x":-160,"y":20,"width":240,"height":60,"color":"#2159ca","type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c1f40684146f4d90","fromNode":"60b0fb4e19171ba6","fromSide":"bottom","toNode":"d3e9de8541549284","toSide":"top","color":"#2159ca"}
+	]
 }
