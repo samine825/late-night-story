@@ -41,11 +41,11 @@
 	*  [[training-grounds#Описание|тренировочный полигон]]
 	*  [[bureau#Описание|бюро]]
 	*  [[police-island#Описание|земля участка]]
-	*  [[chiefs-office#Описание|офис шефа]]
+	*  [[restricted-access-areas#Описание|закрытые зоны]]
 	
 * ####  [[night-club#Описание|Ночной клуб]]  ([[night-club-plan.canvas|план]])
 	*  [[club-entrance#Описание|вход в клуб]]
-	*  [[dancing-ground#Описание|танцпол]]
+	*  [[club-inside#Описание|клуб изнутри]]
 	*  [[back-of-house#Описание|служебная зона]]
 	*  [[security-room#Описание|комната охраны]]
 	

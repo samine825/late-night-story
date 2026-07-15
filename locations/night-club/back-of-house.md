@@ -1,6 +1,6 @@
 #room [[night-club#Описание| Ночной клуб ]]
 
-[[dancing-ground| Назад ]] - [[club-entrance| 0 ]] - [[dancing-ground| 1 ]] -  2  - [[security-room| 3 ]] - [[security-room| Вперед ]]
+[[club-inside| Назад ]] - [[club-entrance| 0 ]] - [[club-inside| 1 ]] -  2  - [[security-room| 3 ]] - [[security-room| Вперед ]]
 
 # Описание
 ---

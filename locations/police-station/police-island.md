@@ -1,6 +1,6 @@
 #room [[police-station| Полицейский участок ]]
 
-[[bureau| Назад ]] - [[training-grounds| 0 ]] - [[bureau| 1 ]] -  2  - [[chiefs-office| 3 ]] - [[chiefs-office| Вперед ]]
+[[bureau| Назад ]] - [[training-grounds| 0 ]] - [[bureau| 1 ]] -  2  - [[restricted-access-areas| 3 ]] - [[restricted-access-areas| Вперед ]]
 
 # Описание
 ---

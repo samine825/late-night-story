@@ -1,6 +1,6 @@
 #room [[night-club#Описание| Ночной клуб ]]
 
-[[security-room| Назад ]] -  0  - [[dancing-ground| 1 ]] - [[back-of-house| 2 ]] - [[security-room| 3 ]] - [[dancing-ground| Вперед ]]
+[[security-room| Назад ]] -  0  - [[club-inside| 1 ]] - [[back-of-house| 2 ]] - [[security-room| 3 ]] - [[club-inside| Вперед ]]
 
 # Описание
 ---
@@ -27,7 +27,7 @@
 	
 * ###  Внешний двор клуба ^6dd9c1
 	*  **Диалог** --> [[club-guard|Вышибала]]
-	*  **[[dancing-ground#Описание|Пройти]]** --> Дверь ведущая на танцпол
+	*  **[[club-inside#Описание|Пройти]]** --> Дверь ведущая на танцпол
 	
 * ###  Темный переулок ^49faf1
 	* *Сперва нужно [[club-entrance#^c8cdac|разблокировать проход]]!*

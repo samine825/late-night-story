@@ -1,6 +1,6 @@
 #room [[police-station| Полицейский участок ]]
 
-[[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[police-island| 2 ]] - [[chiefs-office| 3 ]] - [[police-island| Вперед ]]
+[[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[police-island| 2 ]] - [[restricted-access-areas| 3 ]] - [[police-island| Вперед ]]
 
 # Описание
 ---
@@ -49,9 +49,9 @@
 		*  *Результат во [[act-2#Сценарий|втором акте]]*
 		
 	*  **Осмотреть** --> Дверь в кабинет начальника
-		*  *Доступно только в эпилоге!*
+		*  *Доступно только в [[epilogue#Сценарий|эпилоге]]*!*
 		
-	*  **[[chiefs-office#Описание|Пройти]]** --> Дверь в кабинет начальника
+	*  **[[restricted-access-areas#Описание|Пройти]]** --> Дверь в кабинет начальника
 		*  *Доступно только во [[act-2#Сценарий|втором акте]]!*
 		
 	
