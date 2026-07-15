@@ -1,4 +1,4 @@
-#location [[locations#Локации| Локации ]] | [[epilogue#Сценарий| Эпилог ]] - [[act-2#Секретный путь| Акт II ]]
+#location [[locations#Локации| Локации ]] | [[epilogue#Сценарий| Эпилог ]] - [[act-2#Секретный путь| Акт II  (Секретный путь) ]]
 
 [[abandoned-factory| Назад ]] -  0  - [[night-club| 1 ]] - [[streets| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[night-club| Вперед ]]
 
