@@ -6,7 +6,7 @@
 		{"id":"247d860f9af0701c","type":"text","text":"# Обочина","x":100,"y":80,"width":160,"height":60,"color":"6"},
 		{"id":"0d09cf82ea41e6a2","type":"text","text":"# Решетка","x":-300,"y":200,"width":160,"height":60,"color":"6"},
 		{"id":"0dedd076fab3d4d5","type":"text","text":"# Ящики","x":-300,"y":320,"width":160,"height":60,"color":"6"},
-		{"id":"94d6a9dfd24537be","type":"text","text":"# Окрестности","x":-160,"y":-40,"width":240,"height":60},
+		{"id":"94d6a9dfd24537be","type":"text","text":"# [[outskirts#Описание|Окрестности]]","x":-160,"y":-40,"width":240,"height":60},
 		{"id":"60689ff8e74d3b1c","type":"text","text":"# Контейнеры","x":-80,"y":320,"width":240,"height":60},
 		{"id":"e1be855fe266659a","type":"text","text":"# Погрузочная станция","x":-120,"y":420,"width":320,"height":60},
 		{"id":"957be4afa4104144","type":"text","text":"# Яхта","x":-20,"y":520,"width":120,"height":60},
