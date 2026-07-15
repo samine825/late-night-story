@@ -16,10 +16,10 @@
 		{"id":"eebf2b842e826605","type":"text","text":"# Вышка","x":540,"y":440,"width":160,"height":60,"color":"6"},
 		{"id":"2d7c15714a9d3669","type":"text","text":"# Защищенный контейнер","x":180,"y":200,"width":360,"height":60,"color":"6"},
 		{"id":"e1be855fe266659a","type":"text","text":"# Погрузочная станция","x":200,"y":560,"width":320,"height":60},
-		{"id":"8efa1f68d088c77c","type":"text","text":"# Поле","x":360,"y":-40,"width":120,"height":60,"color":"6"},
 		{"id":"94d6a9dfd24537be","type":"text","text":"# [[outskirts#Описание|Окрестности]]","x":460,"y":80,"width":240,"height":60},
 		{"id":"247d860f9af0701c","type":"text","text":"# Обочина","x":500,"y":-160,"width":160,"height":60,"color":"6"},
-		{"id":"c99f0af2ce58746b","type":"text","text":"# #plan  [[docks#Описание|Доки]]","x":200,"y":-160,"width":240,"height":60,"color":"6"}
+		{"id":"c99f0af2ce58746b","type":"text","text":"# #plan  [[docks#Описание|Доки]]","x":200,"y":-160,"width":240,"height":60,"color":"6"},
+		{"id":"8efa1f68d088c77c","type":"text","text":"# Поле","x":340,"y":-40,"width":120,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"12fe6c87993c828a","fromNode":"c99f0af2ce58746b","fromSide":"left","toNode":"7587164192103294","toSide":"top","color":"#2159ca"},
