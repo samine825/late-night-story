@@ -1,4 +1,4 @@
-#room [[outdoors#Описание| Улицы ]]
+#room [[streets#Описание| Улицы ]]
 
 [[sewerage| Назад ]] -  0  - [[backyard| 1 ]] - [[ghetto| 2 ]] - [[sewerage| 3 ]] - [[backyard| Вперед ]]
 

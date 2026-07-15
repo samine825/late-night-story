@@ -1,8 +1,8 @@
 #index #story #location #character #gameplay 
 
 # [[lfah#Предметы/способности|Looking for a Home]]
-# [[late-night-story#Описание|Late Night Story]]
-# [[todo|TODO]]
+### [[late-night-story#Описание|Late Night Story]]
+##### [[todo|TODO]]
 
 ---
 ## Геймплей
@@ -49,7 +49,7 @@
 	*  [[back-of-house#Описание|служебная зона]]
 	*  [[security-room#Описание|комната охраны]]
 	
-* ####  [[outdoors|Улицы]]  ([[outdoors-plan.canvas|план]])
+* ####  [[streets|Улицы]]  ([[outdoors-plan.canvas|план]])
 	*  [[rooftop#Описание|крыша]]
 	*  [[backyard#Описание|задний двор]]
 	*  [[ghetto#Описание|балконы]]

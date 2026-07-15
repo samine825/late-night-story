@@ -21,7 +21,7 @@
 		{"id":"da83bb13595d6588","x":-480,"y":320,"width":200,"height":60,"color":"1","type":"text","text":"# Корридор"},
 		{"id":"6c7fcf1240f4ed00","type":"text","text":"# [[back-of-house#Описание|Служебная зона]]","x":-820,"y":440,"width":280,"height":60},
 		{"id":"8cd6c5dfb49abb34","type":"text","text":"# [[police-station#Описание|Полицейский участок]]  ([[police-station-plan.canvas|план]])","x":0,"y":-120,"width":420,"height":60,"color":"1"},
-		{"id":"68628afe744fc1ce","x":80,"y":-20,"width":240,"height":60,"color":"#2159ca","type":"text","text":"# [[outdoors#Описание|Улицы]]  ([[outdoors-plan.canvas|план]])"}
+		{"id":"68628afe744fc1ce","x":80,"y":-20,"width":240,"height":60,"color":"#2159ca","type":"text","text":"# [[streets#Описание|Улицы]]  ([[outdoors-plan.canvas|план]])"}
 	],
 	"edges":[
 		{"id":"90875e969b33a4be","fromNode":"1e78415d943ed518","fromSide":"bottom","toNode":"8e9179bd1be191b1","toSide":"top","color":"#2159ca"},

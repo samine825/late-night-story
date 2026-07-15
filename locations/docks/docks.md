@@ -1,6 +1,6 @@
 #location [[locations#Локации| Локации ]] | [[act-2#Сценарий| Акт II ]]
 
-[[outdoors| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[outdoors| 2 ]] -  3  - [[abandoned-factory| 4 ]] - [[abandoned-factory| Вперед ]]
+[[streets| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[streets| 2 ]] -  3  - [[abandoned-factory| 4 ]] - [[abandoned-factory| Вперед ]]
 
 # Описание
 ---

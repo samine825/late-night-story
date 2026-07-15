@@ -1,6 +1,6 @@
 #location [[locations#Локации| Локации ]] | [[epilogue#Сценарий| Эпилог ]] - [[act-2#Секретный путь| Акт II ]]
 
-[[abandoned-factory| Назад ]] -  0  - [[night-club| 1 ]] - [[outdoors| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[night-club| Вперед ]]
+[[abandoned-factory| Назад ]] -  0  - [[night-club| 1 ]] - [[streets| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[night-club| Вперед ]]
 
 # Описание
 ---

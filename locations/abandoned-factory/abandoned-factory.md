@@ -1,6 +1,6 @@
 #location [[locations#Локации| Локации ]] | [[act-3#Сценарий| Акт III ]]
 
-[[docks| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[outdoors| 2 ]] - [[docks| 3 ]] -  4  - [[police-station| Вперед ]]
+[[docks| Назад ]] - [[police-station| 0 ]] - [[night-club| 1 ]] - [[streets| 2 ]] - [[docks| 3 ]] -  4  - [[police-station| Вперед ]]
 
 # Описание
 ---

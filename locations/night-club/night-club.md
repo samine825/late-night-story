@@ -1,6 +1,6 @@
 #location  [[locations#Локации| Локации ]] | [[act-1#Сценарий| Акт I ]]
 
-[[police-station| Назад ]] - [[police-station| 0 ]] -  1  - [[outdoors| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[outdoors| Вперед ]]
+[[police-station| Назад ]] - [[police-station| 0 ]] -  1  - [[streets| 2 ]] - [[docks| 3 ]] - [[abandoned-factory| 4 ]] - [[streets| Вперед ]]
 
 # Описание
 ---
