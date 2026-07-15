@@ -20,7 +20,8 @@
 		{"id":"49d1e3f44eb6d05d","type":"text","text":"# Канал по улице","x":840,"y":380,"width":280,"height":60,"color":"#2159ca"},
 		{"id":"2f59da0cbb286636","type":"text","text":"# [[rooftop#Описание|Погоня]]","x":-660,"y":500,"width":140,"height":60},
 		{"id":"5f939290b1fc2a79","type":"text","text":"# [[docks#Описание|Доки]]  ([[docks-plan.canvas|план]])","x":-140,"y":620,"width":200,"height":60,"color":"6"},
-		{"id":"30473f7b4d461a90","type":"text","text":"Нужно починить трубу!","x":140,"y":620,"width":240,"height":60,"color":"#2159ca"}
+		{"id":"30473f7b4d461a90","type":"text","text":"Нужно починить трубу!","x":140,"y":620,"width":240,"height":60,"color":"#2159ca"},
+		{"id":"bb59f5d121ab4234","x":1720,"y":700,"width":250,"height":100,"type":"text","text":"Не, стендов НЕ БУДЕТ!!! Я не народный депутат чтобы воровать!"}
 	],
 	"edges":[
 		{"id":"c1f40684146f4d90","fromNode":"60b0fb4e19171ba6","fromSide":"left","toNode":"d3e9de8541549284","toSide":"top","color":"#2159ca"},
@@ -49,6 +50,7 @@
 		{"id":"1a72905286e7097c","fromNode":"64cffa309d5ea499","fromSide":"left","toNode":"c7163b4007aba3b2","toSide":"right","color":"4"},
 		{"id":"2b2312e1ea703eb3","fromNode":"64cffa309d5ea499","fromSide":"bottom","toNode":"c7163b4007aba3b2","toSide":"bottom","color":"4"},
 		{"id":"f43b571a8e709472","fromNode":"30473f7b4d461a90","fromSide":"left","toNode":"5f939290b1fc2a79","toSide":"right","color":"#2159ca"},
-		{"id":"341271163904291e","fromNode":"e05d4cc8bc1c6d54","fromSide":"bottom","toNode":"8b518cd7e94889f1","toSide":"right","toEnd":"none"}
+		{"id":"341271163904291e","fromNode":"e05d4cc8bc1c6d54","fromSide":"bottom","toNode":"8b518cd7e94889f1","toSide":"right","toEnd":"none"},
+		{"id":"9cb1ae9bad7dd210","fromNode":"bb59f5d121ab4234","fromSide":"top","toNode":"64cffa309d5ea499","toSide":"right"}
 	]
 }
