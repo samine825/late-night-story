@@ -15,11 +15,11 @@
 		{"id":"63990cf398baba26","type":"text","text":"# [[chiefs-office#Описание|Офис начальника]]","x":860,"y":140,"width":280,"height":60,"color":"1"},
 		{"id":"3dac03bb91f0f0fa","type":"text","text":"# #plan  [[police-station#Описание|Полицейский участок]]  ([[act-2#Сценарий секретного пути|Акт II]])","x":740,"y":-100,"width":520,"height":60,"color":"1"},
 		{"id":"f67ad23ebb705db3","type":"text","text":"Доступно только в секретном пути второго акта!\nСначала нужно получить ключ!","x":0,"y":-220,"width":440,"height":60,"color":"1"},
-		{"id":"ea6db060394bff27","type":"text","text":"# Вещдок","x":380,"y":-100,"width":160,"height":60,"color":"1"},
 		{"id":"9e2127f156ffcbd6","type":"text","text":"# [[bureau#^3ecb89|Доска информации]]","x":460,"y":260,"width":320,"height":60,"color":"6"},
 		{"id":"ce3665319bb6072d","type":"text","text":"Доступно только в секретном пути второго акта!","x":480,"y":380,"width":280,"height":60,"color":"1"},
 		{"id":"b053487ac2aad739","type":"text","text":"# [[docks#Описание|Доки]]  ([[docks-plan.canvas|план]])","x":520,"y":140,"width":200,"height":60,"color":"6"},
-		{"id":"2ad95926bb3506a8","type":"text","text":"# [[bureau#Описание|Бюро]]","x":280,"y":140,"width":120,"height":60}
+		{"id":"2ad95926bb3506a8","type":"text","text":"# [[bureau#Описание|Бюро]]","x":280,"y":140,"width":120,"height":60},
+		{"id":"ea6db060394bff27","type":"text","text":"# Вещдок","x":420,"y":-100,"width":160,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"36cc7bd34b94bd3e","fromNode":"2ad95926bb3506a8","fromSide":"bottom","toNode":"9e2127f156ffcbd6","toSide":"left","toEnd":"none"},
