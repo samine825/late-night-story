@@ -1,6 +1,6 @@
 #room [[outdoors#Описание| Улицы ]]
 
-[[sewerage| Назад ]] -  0  - [[balconies| 1 ]] - [[backyard| 2 ]] - [[sewerage| 3 ]] - [[balconies| Вперед ]]
+[[sewerage| Назад ]] -  0  - [[backyard| 1 ]] - [[ghetto| 2 ]] - [[sewerage| 3 ]] - [[backyard| Вперед ]]
 
 # Описание
 ---

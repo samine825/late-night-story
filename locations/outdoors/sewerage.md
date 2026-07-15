@@ -1,6 +1,6 @@
 #room [[outdoors#Описание| Улицы ]]
 
-[[backyard| Назад ]] - [[rooftop| 0 ]] - [[balconies| 1 ]] - [[backyard| 2 ]] -  3  - [[rooftop| Вперед ]]
+[[ghetto| Назад ]] - [[rooftop| 0 ]] - [[backyard| 1 ]] - [[ghetto| 2 ]] -  3  - [[rooftop| Вперед ]]
 
 # Описание
 ---
