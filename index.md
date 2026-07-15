@@ -52,7 +52,7 @@
 * ####  [[streets|Улицы]]  ([[outdoors-plan.canvas|план]])
 	*  [[rooftop#Описание|крыша]]
 	*  [[backyard#Описание|задний двор]]
-	*  [[ghetto#Описание|балконы]]
+	*  [[ghetto#Описание|гетто]]
 	*  [[sewerage#Описание|канализация]]
 	
 * ####  [[docks|Доки]]  ([[docks-plan.canvas|план]])

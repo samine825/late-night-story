@@ -1,6 +1,25 @@
 {
 	"nodes":[
-		{"id":"c99f0af2ce58746b","type":"text","text":"# #plan  [[docks#Описание|Доки]]","x":-167,"y":-142,"width":227,"height":62,"color":"1"}
+		{"id":"c99f0af2ce58746b","type":"text","text":"# #plan  [[docks#Описание|Доки]]","x":-160,"y":-160,"width":240,"height":62,"color":"6"},
+		{"id":"7587164192103294","type":"text","text":"# Выход из канализации","x":-580,"y":-40,"width":360,"height":60,"color":"6"},
+		{"id":"8efa1f68d088c77c","type":"text","text":"# Поле","x":-260,"y":80,"width":120,"height":60,"color":"6"},
+		{"id":"247d860f9af0701c","type":"text","text":"# Обочина","x":100,"y":80,"width":160,"height":60,"color":"6"},
+		{"id":"0d09cf82ea41e6a2","type":"text","text":"# Решетка","x":-300,"y":200,"width":160,"height":60,"color":"6"},
+		{"id":"0dedd076fab3d4d5","type":"text","text":"# Ящики","x":-300,"y":320,"width":160,"height":60,"color":"6"},
+		{"id":"94d6a9dfd24537be","type":"text","text":"# Окрестности","x":-160,"y":-40,"width":240,"height":60},
+		{"id":"60689ff8e74d3b1c","type":"text","text":"# Контейнеры","x":-80,"y":320,"width":240,"height":60},
+		{"id":"e1be855fe266659a","type":"text","text":"# Погрузочная станция","x":-120,"y":420,"width":320,"height":60},
+		{"id":"957be4afa4104144","type":"text","text":"# Яхта","x":-20,"y":520,"width":120,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"12fe6c87993c828a","fromNode":"c99f0af2ce58746b","fromSide":"left","toNode":"7587164192103294","toSide":"top","color":"#2159ca"},
+		{"id":"c113dc3993a10eaa","fromNode":"c99f0af2ce58746b","fromSide":"right","toNode":"247d860f9af0701c","toSide":"top","color":"1"},
+		{"id":"1f8a8ea0df4afd17","fromNode":"7587164192103294","fromSide":"bottom","toNode":"8efa1f68d088c77c","toSide":"left","fromEnd":"arrow","color":"6"},
+		{"id":"ed26db4e1512d6da","fromNode":"247d860f9af0701c","fromSide":"left","toNode":"8efa1f68d088c77c","toSide":"right","fromEnd":"arrow","color":"6"},
+		{"id":"8dadb51121bb8621","fromNode":"8efa1f68d088c77c","fromSide":"right","toNode":"0d09cf82ea41e6a2","toSide":"right","fromEnd":"arrow","color":"6"},
+		{"id":"5066f11d05698a6f","fromNode":"94d6a9dfd24537be","fromSide":"bottom","toNode":"8efa1f68d088c77c","toSide":"right","toEnd":"none"},
+		{"id":"720fe0d913b97acc","fromNode":"94d6a9dfd24537be","fromSide":"bottom","toNode":"0d09cf82ea41e6a2","toSide":"right","toEnd":"none"},
+		{"id":"95c5ed799f604c2f","fromNode":"94d6a9dfd24537be","fromSide":"right","toNode":"247d860f9af0701c","toSide":"top","toEnd":"none"},
+		{"id":"6afc659208b227fb","fromNode":"94d6a9dfd24537be","fromSide":"left","toNode":"7587164192103294","toSide":"right","toEnd":"none"}
+	]
 }

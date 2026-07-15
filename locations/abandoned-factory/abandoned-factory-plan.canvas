@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"a47dd9ddd237c23a","type":"text","text":"# #plan  [[abandoned-factory#Описание|Заброшенная фабрика]]","x":-152,"y":-140,"width":452,"height":60,"color":"2"}
+		{"id":"a47dd9ddd237c23a","type":"text","text":"# #plan  [[abandoned-factory#Описание|Заброшенная фабрика]]","x":-140,"y":-140,"width":440,"height":60,"color":"6"},
+		{"id":"5a0339ecee3e480c","x":-80,"y":-20,"width":320,"height":60,"type":"text","text":"# Частная территория"},
+		{"id":"d181fa78a3b03bf2","type":"text","text":"# Склад","x":-300,"y":360,"width":160,"height":60},
+		{"id":"3f6ef0ff86c7b8a9","type":"text","text":"# Конвейерная лента","x":180,"y":280,"width":320,"height":60},
+		{"id":"cdb72d6036ec1721","type":"text","text":"# Секретный проход","x":-360,"y":120,"width":320,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1de282bc990cfc50","fromNode":"a47dd9ddd237c23a","fromSide":"bottom","toNode":"5a0339ecee3e480c","toSide":"top"}
+	]
 }
