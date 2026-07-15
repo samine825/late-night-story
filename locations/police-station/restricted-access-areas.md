@@ -23,3 +23,9 @@
 * ###  Вещдок ^54d2f6
 	*  **...** --> ...
 	
+
+# Референсы
+---
+
+* ###  Остров с мельницей из клипа Gorillaz - Feel Good Inc.
+	![[gorillaz-feel-good-inc-album-cover.png]]
