@@ -14,7 +14,6 @@
 		{"id":"76fc6a5ee0a5d224","type":"text","text":"# [[back-of-house#^4792a4|Поворот за угол]]","x":-800,"y":320,"width":280,"height":60,"color":"1"},
 		{"id":"6c7fcf1240f4ed00","type":"text","text":"# [[back-of-house#Описание|Служебная зона]]","x":-800,"y":440,"width":280,"height":60},
 		{"id":"571da44ccadd5299","type":"text","text":"# [[club-entrance#^532cb6|Узкая развилка]]","x":-520,"y":-160,"width":280,"height":60,"color":"6"},
-		{"id":"7ad39a845bab6799","type":"text","text":"*Сперва нужно получить код!*","x":-100,"y":-40,"width":160,"height":60,"color":"1"},
 		{"id":"68628afe744fc1ce","type":"text","text":"# [[streets#Описание|Улицы]]  ([[outdoors-plan.canvas|план]])","x":-140,"y":-160,"width":240,"height":60,"color":"#2159ca"},
 		{"id":"2981a93207ac920d","type":"text","text":"# [[club-entrance#^6dd9c1|Внешний дворик]]","x":-520,"y":-40,"width":280,"height":60,"color":"6"},
 		{"id":"63441e3b01eb183a","type":"text","text":"# [[club-entrance#Описание|Вход в клуб]]","x":-720,"y":-260,"width":200,"height":60},
@@ -22,7 +21,8 @@
 		{"id":"f84c60eaad0f2b6a","type":"text","text":"*Сперва нужно [[club-entrance#^c8cdac|разблокировать проход]]!*\n*Требуется [[lfah#^a5ea5d|предмет для освещения]]!*","x":-1040,"y":-40,"width":360,"height":60,"color":"#453e65"},
 		{"id":"8e9179bd1be191b1","type":"text","text":"# [[club-entrance#^82f7d9|Двор]]","x":-220,"y":-260,"width":120,"height":60,"color":"6"},
 		{"id":"8cd6c5dfb49abb34","type":"text","text":"# [[police-station#Описание|Полицейский участок]]  ([[police-station-plan.canvas|план]])","x":-380,"y":-380,"width":440,"height":60,"color":"1"},
-		{"id":"1e78415d943ed518","type":"text","text":"# #plan  [[night-club#Описание|Ночной клуб]]","x":-40,"y":-260,"width":320,"height":60,"color":"#2159ca"}
+		{"id":"1e78415d943ed518","type":"text","text":"# #plan  [[night-club#Описание|Ночной клуб]]","x":-40,"y":-260,"width":320,"height":60,"color":"#2159ca"},
+		{"id":"7ad39a845bab6799","type":"text","text":"*Сперва нужно получить [[security-room#^6a970f|пароли]]!*","x":-120,"y":-40,"width":200,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"90875e969b33a4be","fromNode":"1e78415d943ed518","fromSide":"left","toNode":"8e9179bd1be191b1","toSide":"right","color":"#2159ca"},
