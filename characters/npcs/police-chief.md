@@ -1,4 +1,4 @@
-#character 
+#character [[mice| Мыши ]] | [[npcs| NPC ]]
 
 # Описание
 ---

@@ -105,15 +105,17 @@
 ---
 ## Референсы
 
+![[batim-a1-item-collection.png]]
+
 ![[rokfor.png]]
 
  ![[female-biker.png]]
 
 ![[gorillaz-feel-good-inc-album-cover.png]]
 
-![[batim-a1-item-collection.png]]
-
 ![[cybertruck.png]]
+
+![[robot-tank.png]]
 
 ---
 ## Музыка

@@ -26,3 +26,5 @@
 
 * ###  Cybertruck от Tesla
 	![[cybertruck.png]]
+* ###  Робот-танк с манипулятором
+	![[robot-tank.png]]
