@@ -1,4 +1,4 @@
-#story [[story#Мир| История мира ]]
+#story [[characters| Персонажи ]]
 
 [[mice| Назад ]] - [[mice| 0 ]] -  1  - [[robots| 2 ]] - [[robots| Вперед ]]
 

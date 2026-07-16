@@ -1,5 +1,7 @@
 #character [[characters| Персонажи ]]
 
+[[bosses| Назад ]] -  NPC  - [[enemies| Враги ]] - [[bosses| Боссы ]] - [[enemies| Вперед ]]
+
 # Союзные
 ---
 

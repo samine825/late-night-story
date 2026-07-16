@@ -1,7 +1,7 @@
-#character
+#character [[npcs| NPC ]] | [[rats| Крысы ]] - [[robots| Роботы ]]
 
 # Описание
 ---
 >
->  [[rats|Крысы]] и [[robots|роботы]]
+>  ...
 >

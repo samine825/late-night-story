@@ -1,7 +1,7 @@
-#character
+#character [[npcs| NPC ]] | [[mice| Мыши ]] - [[robots| Роботы ]]
 
 # Описание
 ---
 >
->  [[mice|Мыши]] и [[robots|роботы]]
+>  ...
 >
