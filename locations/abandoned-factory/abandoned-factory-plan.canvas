@@ -15,7 +15,7 @@
 		{"id":"3f6ef0ff86c7b8a9","type":"text","text":"# Конвейерная лента","x":280,"y":440,"width":320,"height":60},
 		{"id":"f561d700801895b6","type":"text","text":"# Печи","x":480,"y":320,"width":120,"height":60,"color":"6"},
 		{"id":"a47dd9ddd237c23a","type":"text","text":"# #plan  [[abandoned-factory#Описание|Заброшенная фабрика]]","x":260,"y":80,"width":440,"height":60,"color":"6"},
-		{"id":"969d7164bf5b7776","type":"text","text":"# На мели","x":-120,"y":200,"width":160,"height":60,"color":"6"},
+		{"id":"969d7164bf5b7776","type":"text","text":"# Пыльная тропа","x":-160,"y":200,"width":240,"height":60,"color":"6"},
 		{"id":"5a0339ecee3e480c","type":"text","text":"# Частная территория","x":-200,"y":80,"width":320,"height":60},
 		{"id":"32eddd79b3c78c1c","type":"text","text":"# Баръер","x":-820,"y":200,"width":160,"height":60,"color":"6"},
 		{"id":"71469e287495a546","type":"text","text":"# На мели","x":180,"y":200,"width":160,"height":60,"color":"6"}
