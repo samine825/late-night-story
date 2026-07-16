@@ -49,8 +49,8 @@
 	*  [[back-of-house#Описание|служебная зона]]
 	*  [[security-room#Описание|комната охраны]]
 	
-* ####  [[streets|Улицы]]  ([[outdoors-plan.canvas|план]])
-	*  [[rooftop#Описание|крыша]]
+* ####  [[streets|Улицы]]  ([[streets-plan.canvas|план]])
+	*  [[chase#Описание|погоня]]
 	*  [[backyard#Описание|задний двор]]
 	*  [[ghetto#Описание|гетто]]
 	*  [[sewerage#Описание|канализация]]
@@ -59,7 +59,7 @@
 	*  [[outskirts#Описание|окрестности]]
 	*  [[containers#Описание|контейнеры]]
 	*  [[loading-station#Описание|погрузочная станция]]
-	*  [[yacht#Описание|яхта]]
+	*  [[pier#Описание|пирс]]
 	
 * ###  [[abandoned-factory|Заброшенный завод]]  ([[abandoned-factory-plan.canvas|план]])
 	*  [[private-territory#Описание|частная территория]]

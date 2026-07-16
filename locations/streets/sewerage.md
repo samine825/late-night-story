@@ -1,6 +1,6 @@
 #room [[streets#Описание| Улицы ]]
 
-[[ghetto| Назад ]] - [[rooftop| 0 ]] - [[backyard| 1 ]] - [[ghetto| 2 ]] -  3  - [[rooftop| Вперед ]]
+[[ghetto| Назад ]] - [[chase| 0 ]] - [[backyard| 1 ]] - [[ghetto| 2 ]] -  3  - [[chase| Вперед ]]
 
 # Описание
 ---

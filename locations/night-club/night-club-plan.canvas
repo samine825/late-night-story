@@ -14,7 +14,7 @@
 		{"id":"76fc6a5ee0a5d224","type":"text","text":"# [[back-of-house#^4792a4|Поворот за угол]]","x":-800,"y":320,"width":280,"height":60,"color":"1"},
 		{"id":"6c7fcf1240f4ed00","type":"text","text":"# [[back-of-house#Описание|Служебная зона]]","x":-800,"y":440,"width":280,"height":60},
 		{"id":"571da44ccadd5299","type":"text","text":"# [[club-entrance#^532cb6|Узкая развилка]]","x":-520,"y":-160,"width":280,"height":60,"color":"6"},
-		{"id":"68628afe744fc1ce","type":"text","text":"# [[streets#Описание|Улицы]]  ([[outdoors-plan.canvas|план]])","x":-140,"y":-160,"width":240,"height":60,"color":"#2159ca"},
+		{"id":"68628afe744fc1ce","type":"text","text":"# [[streets#Описание|Улицы]]  ([[streets-plan.canvas|план]])","x":-140,"y":-160,"width":240,"height":60,"color":"#2159ca"},
 		{"id":"2981a93207ac920d","type":"text","text":"# [[club-entrance#^6dd9c1|Внешний дворик]]","x":-520,"y":-40,"width":280,"height":60,"color":"6"},
 		{"id":"63441e3b01eb183a","type":"text","text":"# [[club-entrance#Описание|Вход в клуб]]","x":-720,"y":-260,"width":200,"height":60},
 		{"id":"dd754f92b07cc23b","type":"text","text":"# [[club-entrance#^49faf1|Темный переулок]]","x":-1000,"y":-160,"width":280,"height":60,"color":"6"},
