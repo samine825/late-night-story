@@ -26,3 +26,4 @@
 ---
 
 ![[remithedoe-idk.png]]
+пока хс
