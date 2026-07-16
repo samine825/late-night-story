@@ -8,14 +8,15 @@
 ## Геймплей
 
 * ####  Игровые элементы
-	*  [[camera|камера]]
-	*  [[input-layout|ввод]]
 	*  [[menus|меню]]
 	*  [[ui|пользовательский интерфейс]]
 	
-* ###  Режимы
+* ###  Геймплей
 	*  [[point-and-click|point and click]]
 	*  [[beat-em-up|beat em up]]
+	*  [[items|предметы]]
+	*  [[camera|камера]]
+	*  [[input-layout|ввод]]
 	
 
 
