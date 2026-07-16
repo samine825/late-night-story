@@ -5,10 +5,13 @@
 
 * #  Общие
 	*  <span style="color:#f55">Esc</span> --> Меню паузы
+	*  <span style="color:#f55">Tab</span> --> Переключить игровой режим
 	
 * ###  [[point-and-click|Point and Click]]
 	*  <span style="color:#f55">Левая кнопка мыши</span> --> [[point-and-click#Передвижение|Переместиться]]
 	*  <span style="color:#f55">Правая кнопка мыши</span> --> [[point-and-click#Механики|Взаимодействовать]]
+	*  <span style="color:#f55">Колёсико мыши</span> --> Приблизить [[camera#Поведение в point-and-click Point and Click|камеру]]
+	*  <span style="color:#f55">Колёсико мыши (нажать)</span> --> Сменить фокус [[camera#Поведение в point-and-click Point and Click|камеры]]
 	*  <span style="color:#f55">Колёсико мыши (зажать)</span> --> Свободно вращать [[camera#Поведение в point-and-click Point and Click|камеру]] по горизонтали
 	*  <span style="color:#f55">Пробел</span> --> [[point-and-click#Способности|Осмотреться]]
 	
