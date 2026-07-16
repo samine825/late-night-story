@@ -1,4 +1,4 @@
-#character
+#character [[enemies#Дальний бой| Дальний бой ]]
 
 # Атаки
 ---

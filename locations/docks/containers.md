@@ -10,7 +10,7 @@
 
 # Враги
 ---
-* ##  [[pressure-tube-rat|Крыса с пневматикой]]
+* ##  [[pressure-tube-mouse|Мышь с пневматикой]]
 * ##  [[watcher-drone|Дрон наблюдатель]]
 * ##  [[kamikaze-drone|Дрон камикадзе]]
 * ##  [[heavy-guardian|Укрепленный стражник]]

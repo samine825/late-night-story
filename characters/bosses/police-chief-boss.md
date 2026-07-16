@@ -1,4 +1,4 @@
-#character 
+#character [[bosses| Боссы ]] | [[mice| Мыши ]]
 
 # Атаки
 ---
