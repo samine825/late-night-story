@@ -25,7 +25,7 @@
 ---
 
 
-<img src="-ref.png" height=400px width=500px>
+<img src="heavy-guardian-ref.png" height=400px width=500px>
 
 * ###  Cybertruck от Tesla
 	![[cybertruck.png]]
