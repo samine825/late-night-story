@@ -24,6 +24,9 @@
 # Референсы
 ---
 
+
+<img src="-ref.png" height=400px width=500px>
+
 * ###  Cybertruck от Tesla
 	![[cybertruck.png]]
 * ###  Робот-танк с манипулятором

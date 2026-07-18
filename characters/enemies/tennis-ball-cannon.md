@@ -13,3 +13,8 @@
 >
 >  ...
 >
+
+# Референсы
+---
+
+<img src="-ref.png" height=400px width=500px>
