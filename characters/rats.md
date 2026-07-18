@@ -25,4 +25,8 @@
 # Референсы
 ---
 
-<img src="rats-ref.png" width=400px height=320px>
+<div style="display:grid;place-items:center;margin:auto"><img src="rats-ref.png" width=500px height=400px></div>
+
+> [!info] Важно!
+> #### У каждого врага будет по несколько вариаций
+
