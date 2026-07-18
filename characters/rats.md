@@ -20,3 +20,9 @@
 * ###  Боссы
 	*  
 	
+
+
+# Референсы
+---
+
+<img src="rats-ref.png" width=400px height=320px>
