@@ -1,13 +1,5 @@
 #character [[enemies#Подмога| Подмога ]]
 
-# Атаки
----
-
-* ###  Специальные
-	*  Терпеть
-	 
-
-
 # Описание
 ---
 >
@@ -17,4 +9,4 @@
 # Референсы
 ---
 
-<img src="-ref.png" height=400px width=500px>
+<div style="display:grid;place-items:center;margin:auto"><img src="training-dummy-ref.png" height=600px width=600px></div>
