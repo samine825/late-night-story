@@ -51,7 +51,7 @@
 		{"id":"30147df5a8383f04","fromNode":"3f6ef0ff86c7b8a9","fromSide":"left","toNode":"67da2be4d85c1261","toSide":"right","toEnd":"none"},
 		{"id":"ec8eeccd378006b3","fromNode":"d181fa78a3b03bf2","fromSide":"right","toNode":"1727d6473d9bf33a","toSide":"left","toEnd":"none"},
 		{"id":"45aacecb389460da","fromNode":"7c940449cdca05c9","fromSide":"right","toNode":"f561d700801895b6","toSide":"top","color":"6"},
-		{"id":"34f64c2697a8c4fc","fromNode":"98670186daf892b6","fromSide":"left","toNode":"ec3b968b4bd20d8e","toSide":"top","color":"6"},
+		{"id":"34f64c2697a8c4fc","fromNode":"98670186daf892b6","fromSide":"left","toNode":"ec3b968b4bd20d8e","toSide":"top","toEnd":"none","color":"6"},
 		{"id":"59e4434476e56896","fromNode":"ec3b968b4bd20d8e","fromSide":"bottom","toNode":"67da2be4d85c1261","toSide":"left","color":"6"}
 	]
 }
