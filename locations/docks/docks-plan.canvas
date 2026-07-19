@@ -8,6 +8,8 @@
 		{"id":"7587164192103294","type":"text","text":"# [[outskirts#^bd9a9a|Канализационный сток]]","x":-200,"y":0,"width":360,"height":60,"color":"6"},
 		{"id":"7d1a927d49577432","type":"text","text":"*Сначала нужно найти брешь в ограде!*","x":-200,"y":120,"width":240,"height":60,"color":"6"},
 		{"id":"0d09cf82ea41e6a2","type":"text","text":"# [[outskirts#^b8ae7e|Ограда]]","x":120,"y":120,"width":160,"height":60,"color":"6"},
+		{"id":"946ae1cf60d3cb1c","type":"text","text":"# [[pier#^ade138|Под водой]]","x":-160,"y":960,"width":200,"height":60,"color":"#453e65"},
+		{"id":"1361d76aacc14d01","type":"text","text":"*Нужен предмет для [[lfah#^36a283|подводного дыхания]]!*","x":100,"y":960,"width":240,"height":60,"color":"#453e65"},
 		{"id":"9b1d72d76a392f2f","type":"text","text":"# [[pier#^2320da|Причал]]","x":-160,"y":720,"width":160,"height":60,"color":"6"},
 		{"id":"9ec3282f30f1aabb","type":"text","text":"# [[abandoned-factory#Описание|Заброшенная фабрика]]  ([[abandoned-factory-plan.canvas|план]])","x":240,"y":840,"width":440,"height":60,"color":"6"},
 		{"id":"e1be855fe266659a","type":"text","text":"# [[loading-station#Описание|Погрузочная станция]]","x":280,"y":600,"width":320,"height":60},
@@ -15,15 +17,13 @@
 		{"id":"94d6a9dfd24537be","type":"text","text":"# [[outskirts#Описание|Окрестности]]","x":460,"y":120,"width":240,"height":60},
 		{"id":"247d860f9af0701c","type":"text","text":"# [[outskirts#^83edba|Обочина]]","x":500,"y":-120,"width":160,"height":60,"color":"6"},
 		{"id":"c99f0af2ce58746b","type":"text","text":"# #plan  [[docks#Описание|Доки]]","x":140,"y":-120,"width":240,"height":60,"color":"6"},
-		{"id":"2d7c15714a9d3669","type":"text","text":"#  [[containers#^57ac4b|Секретный заворот]]","x":280,"y":240,"width":320,"height":60,"color":"#453e65"},
-		{"id":"eebf2b842e826605","type":"text","text":"# [[loading-station#^65a614|Вышка]]","x":540,"y":360,"width":160,"height":60,"color":"6"},
-		{"id":"70c13f9ca5032de4","type":"text","text":"# [[loading-station#^ff19a4|Панель управления]]","x":540,"y":480,"width":320,"height":60,"color":"1"},
-		{"id":"ec1b03f29d006773","type":"text","text":"*Сперва нужно найти ключ!*","x":700,"y":240,"width":160,"height":60,"color":"1"},
 		{"id":"3c98efd72b3de92f","type":"text","text":"# [[loading-station#^54a0c7|Предательство]]","x":-160,"y":600,"width":280,"height":60,"color":"6"},
 		{"id":"957be4afa4104144","type":"text","text":"# [[pier#Описание|Пирс]]","x":-160,"y":840,"width":120,"height":60},
 		{"id":"6134bf31bbff5f0a","type":"text","text":"# [[pier#^c8abe2|На воде]]","x":20,"y":840,"width":160,"height":60,"color":"6"},
-		{"id":"946ae1cf60d3cb1c","type":"text","text":"# Под водой","x":-160,"y":960,"width":200,"height":60,"color":"6"},
-		{"id":"1361d76aacc14d01","type":"text","text":"*Нужен предмет для [[lfah#^36a283|подводного дыхания]]!*","x":100,"y":960,"width":240,"height":60,"color":"6"}
+		{"id":"2d7c15714a9d3669","type":"text","text":"#  [[containers#^57ac4b|Секретный заворот]]","x":280,"y":240,"width":320,"height":60,"color":"#453e65"},
+		{"id":"eebf2b842e826605","type":"text","text":"# [[loading-station#^65a614|Вышка]]","x":540,"y":360,"width":160,"height":60,"color":"6"},
+		{"id":"70c13f9ca5032de4","type":"text","text":"# [[loading-station#^ff19a4|Панель управления]]","x":540,"y":480,"width":320,"height":60,"color":"1"},
+		{"id":"ec1b03f29d006773","type":"text","text":"*Сперва нужно найти ключ!*","x":700,"y":240,"width":160,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"12fe6c87993c828a","fromNode":"c99f0af2ce58746b","fromSide":"left","toNode":"7587164192103294","toSide":"top","color":"#2159ca"},
@@ -58,8 +58,8 @@
 		{"id":"8e25eaa6720865aa","fromNode":"eebf2b842e826605","fromSide":"right","toNode":"ec1b03f29d006773","toSide":"bottom","toEnd":"none","color":"1"},
 		{"id":"0c7584f7d932145b","fromNode":"ec1b03f29d006773","fromSide":"right","toNode":"70c13f9ca5032de4","toSide":"right","color":"1"},
 		{"id":"538226e93c7249a6","fromNode":"7d1a927d49577432","fromSide":"bottom","toNode":"0dedd076fab3d4d5","toSide":"top","color":"6"},
-		{"id":"bbb2b842bbc0d361","fromNode":"9b1d72d76a392f2f","fromSide":"right","toNode":"1361d76aacc14d01","toSide":"top","color":"6"},
-		{"id":"5d858bbc19411063","fromNode":"1361d76aacc14d01","fromSide":"left","toNode":"946ae1cf60d3cb1c","toSide":"right","color":"6"},
+		{"id":"bbb2b842bbc0d361","fromNode":"9b1d72d76a392f2f","fromSide":"right","toNode":"1361d76aacc14d01","toSide":"top","color":"#453e65"},
+		{"id":"5d858bbc19411063","fromNode":"1361d76aacc14d01","fromSide":"left","toNode":"946ae1cf60d3cb1c","toSide":"right","color":"#453e65"},
 		{"id":"8ddbdcc3f1941f39","fromNode":"946ae1cf60d3cb1c","fromSide":"left","toNode":"9b1d72d76a392f2f","toSide":"left","color":"6"},
 		{"id":"7576f61600526d6c","fromNode":"957be4afa4104144","fromSide":"left","toNode":"946ae1cf60d3cb1c","toSide":"left","toEnd":"none"}
 	]
