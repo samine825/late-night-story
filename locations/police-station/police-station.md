@@ -8,7 +8,7 @@
 >  Парящий островок с полицейским участком. Повсюду летают [[watcher-drone#Описание|дроны-наблюдатели]].
 >  
 
-# [[police-station-plan.canvas|Места]]
+# [[police-station-plan.canvas|Зоны]]
 ---
 
 0. ###  [[training-grounds#Описание|Тренировочный полигон]]

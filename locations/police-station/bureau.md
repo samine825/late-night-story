@@ -1,4 +1,4 @@
-#room [[police-station| Полицейский участок ]]
+#room [[police-station#Описание| Полицейский участок ]]
 
 [[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[police-island| 2 ]] - [[restricted-access-areas| 3 ]] - [[police-island| Вперед ]]
 
