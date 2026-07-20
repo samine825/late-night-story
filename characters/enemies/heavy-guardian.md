@@ -25,7 +25,7 @@
 ---
 
 
-<div style="display:grid;place-items:center;margin:auto"><img src="heavy-guardian-ref.png" height=500px></div>
+<div style="display:grid;place-items:center;margin:auto"><img src="heavy-guardian-ref.png" width=100%></div>
 
 
 * ###  Cybertruck от Tesla

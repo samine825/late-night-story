@@ -19,5 +19,5 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="ranger-rat-ref.png" height=500px></div>
+<div style="display:grid;place-items:center;margin:auto"><img src="ranger-rat-ref.png" width=100%></div>
 

@@ -17,7 +17,7 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="kamikaze-drone-ref.png" height=500px></div>
+<div style="display:grid;place-items:center;margin:auto"><img src="kamikaze-drone-ref.png" width=100%></div>
 
 > [!warning] Важно!
 > Я его в финальной версии все же на 4 пропеллера посажу и переверну.. иначе потоки воздуха от его пропеллера будут дуть не в пол, а в его корпус. та и больше на лампу его бы похожим сделать..

@@ -17,5 +17,5 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="watcher-drone-ref.png" height=500px></div>
+<div style="display:grid;place-items:center;margin:auto"><img src="watcher-drone-ref.png" width=100%></div>
 

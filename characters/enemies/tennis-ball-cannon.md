@@ -17,4 +17,4 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="tennis-ball-cannon-ref.png" height=500px></div>
+<div style="display:grid;place-items:center;margin:auto"><img src="tennis-ball-cannon-ref.png" width=100%></div>
