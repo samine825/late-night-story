@@ -27,6 +27,10 @@
 
 <div style="display:grid;place-items:center;margin:auto"><img src="heavy-guardian-ref.png" width=100%></div>
 
+#### По поводу дрона-камикадзе:
+
+![[kamikaze-drone#^3a7f06]]
+
 
 * ###  Cybertruck от Tesla
 	![[cybertruck.png]]
