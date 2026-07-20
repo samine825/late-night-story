@@ -25,4 +25,4 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="rats-ref.png" width=500px height=400px></div>
+<div style="display:grid;place-items:center;margin:auto"><img src="rats-ref.png" height=400px></div>
