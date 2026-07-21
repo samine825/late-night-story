@@ -1,14 +1,19 @@
 #index #story #location #character #gameplay 
 
 # [[lfah#Предметы/способности|Looking for a Home]]
-### [[late-night-story#Описание|Late Night Story]]
-##### [[todo|TODO]]
+## [[late-night-story#Описание|Late Night Story]]
+### [[todo|TODO]]
 
-1. Геймплей
-2. 
+### Содержание
+1.  [[index#Игра|Игра]]
+2.  [[index#story Плот История|История]]
+3.  [[index#locations Локации|Локации]]
+4.  [[#characters Персонажи|Персонажи ]]
+5.  [[index#Референсы|Референсы]]
+6.  [[index#Музыка|Музыка]]
 
 ---
-## Геймплей
+## Игра
 
 * ####  Игровые элементы
 	*  [[menus|меню]]
