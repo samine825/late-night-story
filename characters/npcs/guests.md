@@ -5,3 +5,9 @@
 >
 >  ...
 >
+
+# Референсы
+---
+
+<img src="guests-ref.png" width=100%>
+

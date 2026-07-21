@@ -10,6 +10,9 @@
 # Референсы
 ---
 
+<img src="police-chief-ref.png" width=100%>
+
+
 * ###  Рокфор из "Чип и Дейл"
 	![[rokfor.png]]
 	

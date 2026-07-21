@@ -4,6 +4,9 @@
 ### [[late-night-story#Описание|Late Night Story]]
 ##### [[todo|TODO]]
 
+1. Геймплей
+2. 
+
 ---
 ## Геймплей
 

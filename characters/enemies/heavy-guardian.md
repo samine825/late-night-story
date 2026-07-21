@@ -25,7 +25,7 @@
 ---
 
 
-<div style="display:grid;place-items:center;margin:auto"><img src="heavy-guardian-ref.png" width=100%></div>
+<img src="heavy-guardian-ref.png" width=100%>
 
 #### По поводу дрона-камикадзе:
 

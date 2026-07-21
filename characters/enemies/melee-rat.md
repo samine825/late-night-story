@@ -23,5 +23,5 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="melee-rat-ref.png" width=100%></div>
+<img src="melee-rat-ref.png" width=100%>
 

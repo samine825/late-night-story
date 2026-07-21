@@ -19,4 +19,4 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="pressure-tube-mouse-ref.png" height=width=100%></div>
+<img src="pressure-tube-mouse-ref.png" width=100%>

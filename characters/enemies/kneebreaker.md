@@ -22,5 +22,5 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="kneebreaker-ref.png" width=100%></div>
+<img src="kneebreaker-ref.png" width=100%>
 

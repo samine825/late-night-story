@@ -9,5 +9,5 @@
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="training-dummy-ref.png" width=100%></div>
+<img src="training-dummy-ref.png" width=100%>
 
