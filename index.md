@@ -156,15 +156,17 @@
 
 ![[tennis-ball-cannon-ref.png]]
 
+![[melee-rat-ref.png]]
+
+![[ranger-rat-ref.png]]
+
 ![[buffed-rat-ref.png]]
 
 ![[batter-rat-ref.png]]
 
 ![[kneebreaker-ref.png]]
 
-![[ranger-rat-ref.png]]
-
-![[melee-rat-ref.png]]
+![[light-guardian-ref.png]]
 
 ![[pressure-tube-mouse-ref.png]]
 
@@ -176,17 +178,15 @@
 
 ![[heavy-guardian-ref.png]]
 
-![[light-guardian-ref.png]]
+![[whipper-bot-ref.png]]
+
+![[seawolf-ref.png]]
 
 ![[dart-drone-ref.png]]
 
 ![[heat-ray-turret-ref.png]]
 
 ![[feral-drone-ref.png]]
-
-![[whipper-bot-ref.png]]
-
-![[seawolf-ref.png]]
 
 ![[mafia-boss-daughter-ref.png]]
 
