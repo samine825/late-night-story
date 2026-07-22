@@ -4,8 +4,9 @@
 ---
 
 * #  Общие
-	*  <span style="color:#f55">Esc</span> --> Меню паузы
+	*  <span style="color:#f55">Esc</span> --> Меню паузы/смены картриджа
 	*  <span style="color:#f55">Tab</span> --> Переключить игровой режим
+		*  *Доступно лишь вне битвы!*
 	
 * ###  [[point-and-click|Point and Click]]
 	*  <span style="color:#f55">Левая кнопка мыши</span> --> [[point-and-click#Передвижение|Переместиться]]
