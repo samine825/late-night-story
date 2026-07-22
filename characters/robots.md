@@ -12,8 +12,25 @@
 ---
 
 * ###  NPC
-	*  
+	*  [[random-cops|Случайные полицейские]]
+	*  [[guests|Посетители]]
+	*  [[bartender#Описание|Бариста]]
 	
 * ###  Враги
-	*  
+	*  [[tennis-ball-cannon|Теннисная пушка]]
+	*  [[kneebreaker|Подножка]]
+	*  [[watcher-drone|Дрон-наблюдатель]]
+	*  [[light-guardian|Легкий стражник]]
+	*  [[kamikaze-drone|Дрон-камикадзе]]
+	*  [[heavy-guardian|Тяжелый стражник]]
+	*  [[whipper-bot|Бот-хлестатель]]
+	*  [[feral-drone|Дикий дрон]]
+	*  [[dart-drone|Стреляющий дрон]]
+	*  [[heat-ray-turret|Лучевая турель]]
 	
+
+
+# Референсы
+---
+
+<img src="robots-ref.png" width=100%>

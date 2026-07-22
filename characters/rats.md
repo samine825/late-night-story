@@ -12,17 +12,24 @@
 ---
 
 * ###  NPC
-	*  
+	*  [[club-guard#Описание|Вышибала]]
+	*  [[guests#Описание|Посетители]]
+	*  [[rat-cop#Описание|Офицер Энджи]]
 	
 * ###  Враги
-	*  
+	*  [[melee-rat#Описание|Крыса-наемник]]
+	*  [[ranger-rat#Описание|Крыса с рогаткой]]
+	*  [[buffed-rat#Описание|Накачанная крыса]]
+	*  [[batter-rat#Описание|Крыса с битой]]
+	*  [[pipe-rat#Описание|Крыса с трубой]]
 	
 * ###  Боссы
-	*  
+	*  [[mafia-boss-daughter#Описание|Дочь дона]]
+	*  [[mafia-boss#Описание|Дон]]
 	
 
 
 # Референсы
 ---
 
-<div style="display:grid;place-items:center;margin:auto"><img src="rats-ref.png" width=100%></div>
+<img src="rats-ref.png" width=100%>
