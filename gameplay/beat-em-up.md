@@ -42,7 +42,7 @@
 				
 			
 		
-	* ###  Сильная атака
+	* ###  Сильная атака ^21f8bd
 		*  ( <span style="color:#f55;display:inline">Зажать и отпустить ЛКМ</span> ) --> *Ошеломляющий удар по области впереди*
 		*  ( <span style="color:#f55;display:inline">Зажать ЛКМ</span> + <span style="color:#f55;display:inline">F</span> ) --> *Ошеломляющий удар по области сзади*
 			*  *Разворачивает Шерон*
