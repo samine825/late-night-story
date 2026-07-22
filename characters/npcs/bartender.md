@@ -1,4 +1,4 @@
-#character [[npcs| Враги ]] | [[robots| Роботы ]]
+#character [[npcs| NPC ]] | [[robots| Роботы ]]
 
 # Описание
 ---
