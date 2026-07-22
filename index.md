@@ -94,9 +94,9 @@
 	*  [[training-dummy#Описание|тренировочный манекен]]
 	*  [[tennis-ball-cannon#Описание|теннисная пушка]]
 	*  [[melee-rat#Описание|крыса-наемник]]
-	*  [[batter-rat#Описание|крыса с битой]]
 	*  [[ranger-rat#Описание|крыса с рогаткой]]
 	*  [[buffed-rat#Описание|накачанная крыса]]
+	*  [[batter-rat#Описание|крыса с битой]]
 	*  [[kneebreaker#Описание|подножка]]
 	*  [[light-guardian|легкий стражник]]
 	*  [[pressure-tube-mouse#Описание|мышь с пневматикой]]
@@ -138,19 +138,19 @@
 
 ![[robots-ref.png]]
 
-![[random-cops-ref.png]]
-
 ![[police-chief-ref.png]]
+
+![[random-cops-ref.png]]
 
 ![[rat-cop-ref.png]]
 
-![[traitor-mouse-ref.png]]
+![[club-guard-ref.png]]
 
 ![[guests-ref.png]]
 
-![[club-guard-ref.png]]
-
 ![[bartender-ref.png]]
+
+![[traitor-mouse-ref.png]]
 
 ![[training-dummy-ref.png]]
 
