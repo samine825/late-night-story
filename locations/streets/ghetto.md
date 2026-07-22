@@ -1,4 +1,4 @@
-#room [[streets#Описание| Улицы ]]
+#room [[streets#Описание| Улицы ]]  ([[streets-plan.canvas|план]])
 
 [[backyard| Назад ]] - [[chase| 0 ]] - [[backyard| 1 ]] -  2  - [[sewerage| 3 ]] - [[sewerage| Вперед ]]
 

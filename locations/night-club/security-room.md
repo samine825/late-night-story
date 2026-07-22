@@ -1,4 +1,4 @@
-#room [[night-club#Описание| Ночной клуб ]]
+#room [[night-club#Описание| Ночной клуб ]]  ([[night-club-plan.canvas|план]])
 
 [[back-of-house| Назад ]] - [[club-entrance| 0 ]] - [[club-inside| 1 ]] - [[back-of-house| 2 ]] -  3  - [[club-entrance| Вперед ]]
 

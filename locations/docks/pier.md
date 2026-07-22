@@ -1,4 +1,4 @@
-#room [[docks#Описание| Доки ]]
+#room [[docks#Описание| Доки ]]  ([[docks-plan.canvas|план]])
 
 [[loading-station| Назад ]] - [[outskirts| 0 ]] - [[containers| 1 ]] - [[loading-station| 2 ]] -  3  - [[outskirts| Вперед ]]
 
@@ -15,6 +15,7 @@
 * ###  [[kamikaze-drone|Дрон-камикадзе]]
 * ###  [[pressure-tube-mouse|Мышь с пневматикой]]
 * ###  [[pipe-rat|Крыса с трубой]]
+* ###  [[seawolf|Морской волк]]
 
 
 # Места интереса

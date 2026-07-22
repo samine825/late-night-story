@@ -1,4 +1,4 @@
-#room [[docks#Описание| Доки ]]
+#room [[docks#Описание| Доки ]]  ([[docks-plan.canvas|план]])
 
 [[containers| Назад ]] - [[outskirts| 0 ]] - [[containers| 1 ]] -  2  - [[pier| 3 ]] - [[pier| Вперед ]]
 

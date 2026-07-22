@@ -1,4 +1,4 @@
-#room [[police-station#Описание| Полицейский участок ]]
+#room [[police-station#Описание| Полицейский участок ]]  ([[police-station-plan.canvas|план]])
 
 [[training-grounds| Назад ]] - [[training-grounds| 0 ]] -  1  - [[police-island| 2 ]] - [[restricted-access-areas| 3 ]] - [[police-island| Вперед ]]
 

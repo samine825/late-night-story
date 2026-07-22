@@ -1,4 +1,4 @@
-#room [[abandoned-factory#Описание| Заброшенная фабрика ]]
+#room [[abandoned-factory#Описание| Заброшенная фабрика ]]  ([[abandoned-factory-plan.canvas|план]])
 
 [[private-territory| Назад ]] - [[private-territory| 0 ]] -  1  - [[warehouse| 2 ]] - [[conveyor-belt| 3 ]] - [[warehouse| Вперед ]]
 
