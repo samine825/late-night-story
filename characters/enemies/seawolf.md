@@ -14,11 +14,11 @@
 # Описание
 ---
 >  
->  ...
+>  Мышь-пират. Отрекся от спокойной жизни ради приключений.
 >  
 
 # Референсы
 ---
 
-<img src="harpooner-mouse-ref.png" width=100%>
+<img src="seawolf-ref.png" width=100%>
 
