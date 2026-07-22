@@ -17,10 +17,7 @@
 # Референсы
 ---
 
-
-<img src="batter-rat-ref.png" width=100%>
-
-
+![[batter-rat-ref.png]]
 
 > [!warning]- Важно!
 > Да, это фембойский топик

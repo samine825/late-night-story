@@ -9,5 +9,5 @@
 # Референсы
 ---
 
-<img src="guests-ref.png" width=100%>
+![[guests-ref.png]]
 

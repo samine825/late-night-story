@@ -9,4 +9,4 @@
 # Референсы
 ---
 
-<img src="random-cops-ref.png" width=100%>
+![[random-cops-ref.png]]

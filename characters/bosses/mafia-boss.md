@@ -23,7 +23,7 @@
 # Референсы
 ---
 
-<img src="mafia-boss-ref.png" width=100%>
+![[mafia-boss-ref.png]]
 
 
 

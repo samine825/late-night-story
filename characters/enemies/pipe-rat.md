@@ -18,5 +18,5 @@
 # Референсы
 ---
 
-<img src="pipe-rat-ref.png" height=width=100%>
+![[pipe-rat-ref.png]]
 

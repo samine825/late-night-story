@@ -17,7 +17,7 @@
 # Референсы
 ---
 
-<img src="buffed-rat-ref.png" width=100%>
+![[buffed-rat-ref.png]]
 
 > [!warning]- Важно!
 > гигацыган

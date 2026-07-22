@@ -23,7 +23,7 @@
 # Референсы
 ---
 
-<img src="mafia-boss-daughter-ref.png" width=100%>
+![[mafia-boss-daughter-ref.png]]
 
 
 * ###  Байкер

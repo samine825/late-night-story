@@ -17,5 +17,5 @@
 # Референсы
 ---
 
-<img src="watcher-drone-ref.png" width=100%>
+![[watcher-drone-ref.png]]
 

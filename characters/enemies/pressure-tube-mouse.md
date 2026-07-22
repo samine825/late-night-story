@@ -21,4 +21,4 @@
 # Референсы
 ---
 
-<img src="pressure-tube-mouse-ref.png" width=100%>
+![[pressure-tube-mouse-ref.png]]

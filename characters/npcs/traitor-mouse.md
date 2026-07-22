@@ -10,7 +10,7 @@
 # Референсы
 ---
 
-<img src="traitor-mouse-ref.png" width=100%>
+![[traitor-mouse-ref.png]]
 
 
 # Альтернативная форма

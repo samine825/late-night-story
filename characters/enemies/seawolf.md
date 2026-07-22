@@ -20,5 +20,5 @@
 # Референсы
 ---
 
-<img src="seawolf-ref.png" width=100%>
+![[seawolf-ref.png]]
 

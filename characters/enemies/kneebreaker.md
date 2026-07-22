@@ -22,5 +22,5 @@
 # Референсы
 ---
 
-<img src="kneebreaker-ref.png" width=100%>
+![[kneebreaker-ref.png]]
 

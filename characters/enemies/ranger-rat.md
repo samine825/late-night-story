@@ -21,5 +21,5 @@
 # Референсы
 ---
 
-<img src="ranger-rat-ref.png" width=100%>
+![[ranger-rat-ref.png]]
 

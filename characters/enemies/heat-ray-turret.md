@@ -17,7 +17,7 @@
 # Референсы
 ---
 
-<img src="heat-ray-turret-ref.png" width=100%>
+![[heat-ray-turret-ref.png]]
 
 > [!warning] Важно!
 > Красная штука выпускающая луч это кристалл

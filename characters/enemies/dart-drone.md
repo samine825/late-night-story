@@ -17,5 +17,5 @@
 # Референсы
 ---
 
-<img src="dart-drone-ref.png" width=100%>
+![[dart-drone-ref.png]]
 

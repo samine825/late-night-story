@@ -9,4 +9,4 @@
 # Референсы
 ---
 
-<img src="rat-cop-ref.png" width=100%>
+![[rat-cop-ref.png]]

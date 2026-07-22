@@ -9,5 +9,5 @@
 # Референсы
 ---
 
-<img src="training-dummy-ref.png" width=100%>
+[[training-dummy-ref.png]]
 

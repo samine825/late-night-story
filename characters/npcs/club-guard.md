@@ -9,7 +9,7 @@
 # Референсы
 ---
 
-<img src="club-guard-ref.png" width=100%>
+![[club-guard-ref.png]]
 
 
 # Альтернативная форма

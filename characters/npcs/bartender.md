@@ -9,4 +9,4 @@
 # Референсы
 ---
 
-<img src="bartender-ref.png" width=100%>
+![[bartender-ref.png]]

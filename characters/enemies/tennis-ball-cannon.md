@@ -17,4 +17,4 @@
 # Референсы
 ---
 
-<img src="tennis-ball-cannon-ref.png" width=100%>
+![[tennis-ball-cannon-ref.png]]

@@ -24,4 +24,4 @@
 # Референсы
 ---
 
-<img src="chain-bot-ref.png" width=100%>
+![[chain-bot-ref.png]]

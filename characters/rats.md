@@ -32,4 +32,4 @@
 # Референсы
 ---
 
-<img src="rats-ref.png" width=100%>
+![[rats-ref.png]]

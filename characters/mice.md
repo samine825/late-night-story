@@ -28,4 +28,4 @@
 # Референсы
 ---
 
-<img src="mice-ref.png" width=100%>
+![[mice-ref.png]]

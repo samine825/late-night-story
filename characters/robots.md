@@ -33,4 +33,4 @@
 # Референсы
 ---
 
-<img src="robots-ref.png" width=100%>
+![[robots-ref.png]]
