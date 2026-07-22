@@ -24,4 +24,4 @@
 # Референсы
 ---
 
-![[chain-bot-ref.png]]
+![[whipper-bot-ref.png]]
