@@ -1,4 +1,4 @@
-#character [[enemies#Дальний бой| Дальний бой ]] | [[robots| Робот ]]
+#character [[enemies#Дальний бой| Дальний бой ]]  ( [[enemies#^c2633f| _ ]] ) | [[robots| Робот ]]
 
 # Атаки
 ---

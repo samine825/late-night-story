@@ -1,4 +1,4 @@
-#character [[enemies| Враги ]] | [[robots| Робот ]]
+#character [[enemies| Враги ]]  ( [[enemies#^2bd26b| B ]] [[enemies#^77edde| + ]] ) | [[robots| Робот ]]
 
 # Атаки
 ---

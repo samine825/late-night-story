@@ -1,4 +1,4 @@
-#character [[enemies#Подмога| Подмога ]]
+#character [[enemies#Подмога| Подмога ]]  ( [[enemies#^c2633f| _ ]] [[enemies#^004701| - ]] )
 
 # Описание
 ---

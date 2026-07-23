@@ -1,4 +1,4 @@
-#character [[enemies#Подмога| Подмога ]] | [[robots#Внешний вид| Робот ]]
+#character [[enemies#Подмога| Подмога ]]  ( [[enemies#^3d387f| s ]] [[enemies#^e82c8d| ^ ]] [[enemies#^004701| - ]] ) | [[robots#Внешний вид| Робот ]]
 
 # Атаки
 ---

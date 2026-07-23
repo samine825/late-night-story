@@ -1,4 +1,4 @@
-#character [[enemies#Ближний бой| Ближний бой ]] | [[robots| Роботы ]]
+#character [[enemies#Ближний бой| Ближний бой ]]  ( [[enemies#^3d387f| s ]] [[enemies#^e82c8d| ^ ]] [[enemies#^77edde| + ]] ) | [[robots| Роботы ]]
 
 # Атаки
 ---

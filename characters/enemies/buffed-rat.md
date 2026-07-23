@@ -1,4 +1,4 @@
-#character [[enemies#Ближний бой| Ближний бой ]] | [[rats| Крысы ]]
+#character [[enemies#Ближний бой| Ближний бой ]]  ( [[enemies#^2bd26b| B ]] ) | [[rats| Крысы ]]
 
 # Атаки
 ---
