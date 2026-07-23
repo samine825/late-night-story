@@ -14,7 +14,7 @@
 	*  <span style="color:#f55">Колёсико мыши (нажать)</span> --> Сменить фокус [[camera#Поведение в point-and-click Point and Click|камеры]] на объект под курсором
 	*  <span style="color:#f55">Shift</span> --> [[point-and-click#^f3cb04|Осмотреться]]
 	*  <span style="color:#f55">Z</span> --> Красться
-	*  <span style="color:#f55">X</span> --> Применить предмет в активном слоте на объекте бод курсором
+	*  <span style="color:#f55">X</span> --> Ускорить диалог
 	*  <span style="color:#f55">C</span> --> Удалить метку и остановить Шерон
 	*  <span style="color:#f55">V</span> --> Переключиться в режим [[beat-em-up|Beat Em Up]]
 	
