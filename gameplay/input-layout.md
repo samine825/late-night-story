@@ -7,12 +7,16 @@
 	*  <span style="color:#f55">Esc</span> --> Меню паузы/смены картриджа
 	
 * ###  [[point-and-click|Point and Click]]
-	*  <span style="color:#f55">Левая кнопка мыши</span> --> [[point-and-click#Управление|Переместиться]]
-	*  <span style="color:#f55">Правая кнопка мыши</span> --> [[point-and-click#^ede5de|Открыть меню взаимодействия]]
-	*  <span style="color:#f55">Колёсико мыши</span> --> Приблизить [[camera#Поведение в point-and-click Point and Click|камеру]]
-	*  <span style="color:#f55">Колёсико мыши (нажать)</span> --> Сменить фокус [[camera#Поведение в point-and-click Point and Click|камеры]]
+	*  <span style="color:#f55">Левая кнопка мыши</span> --> [[point-and-click#^ad42e9|Поставить метку под курсором]]
+	*  <span style="color:#f55">Правая кнопка мыши</span> --> [[point-and-click#^ede5de|Открыть меню взаимодействия с предметом под курсором]]
+	*  <span style="color:#f55">Колёсико мыши (вращать)</span> --> Приблизить [[camera#Поведение в point-and-click Point and Click|камеру]]
+	*  <span style="color:#f55">Колёсико мыши (нажать)</span> --> Сменить фокус [[camera#Поведение в point-and-click Point and Click|камеры]] на объект под курсором
 	*  <span style="color:#f55">Колёсико мыши (зажать)</span> --> Вращать [[camera#Поведение в point-and-click Point and Click|камеру]] по горизонтали
 	*  <span style="color:#f55">Shift</span> --> [[point-and-click#^f3cb04|Осмотреться]]
+	*  ( <span style="color:#f55">Z</span> ) --> Красться
+	*  ( <span style="color:#f55">X</span> ) --> Применить предмет в активном слоте на объекте бод курсором
+	*  ( <span style="color:#f55">C</span> ) --> Удалить метку и остановить Шерон
+	*  ( <span style="color:#f55">V</span> ) --> Переключиться в режим [[beat-em-up|Beat Em Up]]
 	
 * ###  [[beat-em-up|Beat Em Up]]
 	*  <span style="color:#f55">WASD</span> --> [[beat-em-up#^b422c5|Ходьба]]
