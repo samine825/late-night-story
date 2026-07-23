@@ -19,7 +19,8 @@
 	*  <span style="color:#f55">V</span> --> Переключиться в режим [[beat-em-up|Beat Em Up]]
 	
 * ###  [[beat-em-up|Beat Em Up]]
-	*  <span style="color:#f55">Левая кнопка мыши (нажать)</span> --> [[point-and-click#^ad42e9|Поставить метку под курсором]]
+	*  <span style="color:#f55">Левая кнопка мыши (нажать)</span> --> Удар
+	*  <span style="color:#f55">Левая кнопка мыши (нажать)</span> --> Удар
 	*  <span style="color:#f55">WASD</span> --> [[beat-em-up#^b422c5|Ходьба]]
 	*  <span style="color:#f55">Q</span> и <span style="color:#f55">E</span> --> Вращать [[camera#Поведение в beat-em-up Beat Em Up|камеру]] на 45° градусов по горизонтали влево и вправо соответственно
 	*  <span style="color:#f55">Пробел</span> --> [[beat-em-up|Прыжок]]
