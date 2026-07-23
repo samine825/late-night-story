@@ -1,4 +1,4 @@
-#character [[enemies#Дальний бой| Дальний бой ]] | [[mice| Мыши ]]
+#character [[enemies#Дальний бой| Дальний бой ]]  ( [[enemies#^3d387f| s ]] ) | [[mice| Мыши ]]
 
 # Атаки
 ---

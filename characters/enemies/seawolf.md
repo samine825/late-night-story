@@ -1,4 +1,4 @@
-#character [[enemies| Враги ]] | [[mice| Мыши ]]
+#character [[enemies| Враги ]]  ( [[enemies#^3d387f| s ]] ) | [[mice| Мыши ]]
 
 # Атаки
 ---
