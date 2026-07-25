@@ -1,7 +1,7 @@
 #index #story #location #character #gameplay 
 
 # [[lfah#Предметы/способности|Looking for a Home]]
-## [[late-night-story#Описание|Late Night Story]]
+## [[late-night-story#Описание|Late Night Story]]guests
 ### [[todo|TODO]]
 
 ### Содержание
