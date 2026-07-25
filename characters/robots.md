@@ -19,8 +19,8 @@
 * ###  Враги
 	*  [[tennis-ball-cannon|Теннисная пушка]]
 	*  [[kneebreaker|Подножка]]
-	*  [[watcher-drone|Дрон-наблюдатель]]
 	*  [[light-guardian|Легкий стражник]]
+	*  [[watcher-drone|Дрон-наблюдатель]]
 	*  [[kamikaze-drone|Дрон-камикадзе]]
 	*  [[heavy-guardian|Тяжелый стражник]]
 	*  [[whipper-bot|Бот-хлестатель]]
