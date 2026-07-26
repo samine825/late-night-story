@@ -146,8 +146,6 @@
 
 ![[rat-cop-ref.png]]
 
-![[club-guard-ref.png]]
-
 ![[guests-ref.png]]
 
 ![[bartender-ref.png]]
