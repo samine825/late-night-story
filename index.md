@@ -90,7 +90,8 @@
 	*  [[club-guard|Вышибала]]
 	*  [[guests#Описание|посетители]]
 	*  [[bartender|Бариста]]
-	* [[robot-slaves#Описание|пойманные роботы]]
+	*  [[garbage-rat#Описание|крыса-мусорщик]]
+	*  [[robot-slaves#Описание|пойманные роботы]]
 	
 * ####  [[enemies|Враги]]
 	*  [[training-dummy#Описание|тренировочный манекен]]
@@ -151,6 +152,8 @@
 ![[guests-ref.png]]
 
 ![[bartender-ref.png]]
+
+![[garbage-rat-ref.png]]
 
 ![[traitor-mouse-ref.png]]
 
