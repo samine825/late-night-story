@@ -9,7 +9,7 @@
 # Референсы
 ---
 
-![[club-guard-ref.png]]
+![[buffed-rat-ref.png]]
 
 
 # Альтернативная форма
