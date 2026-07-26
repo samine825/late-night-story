@@ -123,6 +123,8 @@
 
 ![[batim-a1-item-collection.png]]
 
+![[ashes-town-old-map-boat.png]]
+
 ![[rokfor.png]]
 
  ![[female-biker.png]]
@@ -151,6 +153,8 @@
 ![[bartender-ref.png]]
 
 ![[traitor-mouse-ref.png]]
+
+![[robot-slaves-ref.png]]
 
 ![[training-dummy-ref.png]]
 
