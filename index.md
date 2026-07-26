@@ -147,6 +147,8 @@
 
 ![[random-cops-ref.png]]
 
+![[traitor-mouse-ref.png]]
+
 ![[rat-cop-ref.png]]
 
 ![[guests-ref.png]]
@@ -154,8 +156,6 @@
 ![[bartender-ref.png]]
 
 ![[garbage-rat-ref.png]]
-
-![[traitor-mouse-ref.png]]
 
 ![[robot-slaves-ref.png]]
 
