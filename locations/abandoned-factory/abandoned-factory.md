@@ -11,7 +11,7 @@
 # [[abandoned-factory-plan.canvas|Места]]
 ---
 
-0.  ###  [[private-territory#Описание|Частная территория]]
+0.  ###  [[artificial-island#Описание|Искусственный остров]]
 1.  ###  [[secret-passage#Описание|Секретный проход]]
 2.  ###  [[warehouse#Описание|Склад]]
 3.  ###  [[conveyor-belt#Описание|Конвейерная лента]]

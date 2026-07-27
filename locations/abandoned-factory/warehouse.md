@@ -1,6 +1,6 @@
 #room [[abandoned-factory#Описание| Заброшенная фабрика ]]  ([[abandoned-factory-plan.canvas|план]])
 
-[[secret-passage| Назад ]] - [[private-territory| 0 ]] - [[secret-passage| 1 ]] -  2  - [[conveyor-belt| 3 ]] - [[conveyor-belt| Вперед ]]
+[[secret-passage| Назад ]] - [[artificial-island| 0 ]] - [[secret-passage| 1 ]] -  2  - [[conveyor-belt| 3 ]] - [[conveyor-belt| Вперед ]]
 
 # Описание
 ---

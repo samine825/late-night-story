@@ -78,7 +78,7 @@
 	*  [[pier#Описание|пирс]]
 	
 * ###  [[abandoned-factory|Заброшенный завод]]  ([[abandoned-factory-plan.canvas|план]])
-	*  [[private-territory#Описание|частная территория]]
+	*  [[artificial-island#Описание|искусственный остров]]
 	*  [[secret-passage#Описание|секретный проход]]
 	*  [[warehouse#Описание|склад]]
 	*  [[conveyor-belt#Описание|конвейерная лента]]
