@@ -1,10 +1,9 @@
 #index #story #location #character #gameplay 
 
 # [[lfah#Предметы/способности|Looking for a Home]]
-## [[late-night-story#Описание|Late Night Story]]
-### [[todo|TODO]]
-
-### Содержание
+### [[late-night-story#Описание|Late Night Story]]
+#### [[todo|TODO]]
+#### Содержание
 1.  [[index#Игра|Игра]]
 2.  [[index#story Плот История|История]]
 3.  [[index#locations Локации|Локации]]
