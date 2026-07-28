@@ -1,4 +1,4 @@
-#character [[npcs| NPC ]] | [[mice| Мыши ]] - [[robots| Роботы ]] | [[police| Полиция ]]
+#character [[npcs| NPC ]] | [[mice| Мыши ]] - [[robots| Роботы ]] | [[police#Описание| Полиция ]]
 
 # Описание
 ---

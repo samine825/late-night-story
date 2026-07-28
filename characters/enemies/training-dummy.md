@@ -1,4 +1,4 @@
-#character [[enemies#Подмога| Подмога ]]  ( [[enemies#^c2633f| _ ]] [[enemies#^004701| - ]] )
+#character [[enemies#Подмога| Подмога ]]  ( [[enemies#^c2633f| _ ]] [[enemies#^004701| - ]] ) |  ?  | [[police#Описание| Полиция ]]
 
 # Описание
 ---

@@ -1,4 +1,4 @@
-#character [[npcs| NPC ]] | [[mice| Мыши ]]
+#character [[npcs| NPC ]] | [[mice| Мыши ]] | [[police#Описание| Полиция ]] - [[mafia#Описание| Мафия ]]
 
 # Описание
 ---
