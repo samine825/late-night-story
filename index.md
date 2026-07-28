@@ -193,7 +193,7 @@
 
 ![[whipper-bot-ref.png]]
 
-![[seawolf-ref.png]]
+![[pirate-mouse-ref.png]]
 
 ![[dart-drone-ref.png]]
 

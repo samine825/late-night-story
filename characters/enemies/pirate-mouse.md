@@ -19,5 +19,5 @@
 # Референсы
 ---
 
-![[seawolf-ref.png]]
+![[pirate-mouse-ref.png]]
 
