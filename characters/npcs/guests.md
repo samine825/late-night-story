@@ -1,4 +1,4 @@
-#character [[npcs| NPC ]] | [[rats| Крысы ]] - [[robots| Роботы ]]
+#character [[npcs| NPC ]] | [[rats| Крысы ]] - [[robots| Роботы ]]  | [[gangs#Описание| Банды ]] - [[others#Описание| Другие]]
 
 # Описание - Крутой гангстер
 ---
