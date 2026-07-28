@@ -1,15 +1,16 @@
-#character [[enemies#Дальний бой| Дальний бой ]]  ( [[enemies#^3d387f| s ]] ) | [[mice| Мыши ]]
+#character [[enemies#Дальний бой| Дальний бой ]]  ( [[enemies#^3d387f| s ]] ) | [[mice| Мыши ]]  | [[robot-dealers#Описание| Роботорговцы ]] - [[mafia#Описание| Мафия ]]
 
 # Атаки
 ---
 
 * ###  Ближний бой
 	*  Удар ружьем
+	*  Пинок  ( [[beat-em-up#^6ca5fd| * ]] )
 	 
 * ###  Дальний бой
 	*  Легкий дротик  ( [[beat-em-up#^6ca5fd| * ]] )                      <span style="display:inline-block;position:relative;height:15px;width:15px;background:#88a;border-radius:15px;box-shadow:0 0 30px #224, 0 0 10px #446"></span> 
 	*  Тяжелый дротик  ( [[beat-em-up#^9f5072| % ]] )                 <span style="display:inline-block;position:relative;height:15px;width:15px;background:#c92;border-radius:15px;box-shadow:0 0 30px #642, 0 0 10px #853"></span> 
-	*  Дротик со снотворным  ( [[beat-em-up#^6ca5fd| * ]] [[beat-em-up#^a2c027| ! ]] )   <span style="display:inline-block;position:relative;height:15px;width:15px;background:#000;border-radius:15px;box-shadow:0 0 30px #000, 0 0 10px #000"></span>
+	*  Дротик со снотворным  ( [[beat-em-up#^6ca5fd| * ]] [[beat-em-up#^a2c027| ! ]] )   <span style="display:inline-block;position:relative;height:15px;width:15px;background:#2d0;border-radius:15px;box-shadow:0 0 30px #350, 0 0 10px #5a0"></span>
 	*  Взрывной дротик  ( [[beat-em-up#^6ca5fd| * ]] [[beat-em-up#^a2c027| ! ]] )             <span style="display:inline-block;position:relative;height:15px;width:15px;background:#d22;border-radius:15px;box-shadow:0 0 30px #800, 0 0 10px #c00"></span>   
 	
 
