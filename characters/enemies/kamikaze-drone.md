@@ -1,10 +1,12 @@
-#character [[enemies#Ближний бой| Ближний бой ]]  ( [[enemies#^3d387f| s ]] [[enemies#^e82c8d| ^ ]] [[enemies#^77edde| + ]] ) | [[robots| Роботы ]]
+#character [[enemies#Ближний бой| Ближний бой ]]  ( [[enemies#^3d387f| s ]] [[enemies#^e82c8d| ^ ]] [[enemies#^77edde| + ]] ) | [[robots| Роботы ]] | [[robot-dealers#Описание| Роботорговцы ]] - [[mafia#Описание| Мафия ]]
 
 # Атаки
 ---
 
 * ###  Ближний бой
 	*  Бум-бум  ( [[beat-em-up#^6ca5fd| * ]] [[beat-em-up#^a2c027| ! ]] )
+		*  *Нужно парировать синее ядро и уклониться от корпуса одновременно*
+		
 	 
 
 

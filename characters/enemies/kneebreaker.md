@@ -1,4 +1,4 @@
-#character [[enemies#Ближний бой| Ближний бой ]]  ( [[enemies#^3d387f| s ]] ) | [[robots| Роботы ]]  | [[gangs#Описание| Банды ]]
+#character [[enemies#Ближний бой| Ближний бой ]]  ( [[enemies#^3d387f| s ]] ) | [[robots| Роботы ]] | [[gangs#Описание| Банды ]]
 
 # Атаки
 ---
