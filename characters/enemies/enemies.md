@@ -45,11 +45,11 @@
 * ###  [[batter-rat#Описание|Крыса с битой]]
 * ###  [[buffed-rat#Описание|Накачанная крыса]]  ( [[enemies#^2bd26b| B ]] )
 * ###  [[kneebreaker#Описание|Подножка]]  ( [[enemies#^3d387f| s ]] )
-* ###  [[light-guardian#Описание|Легкий стражник]]
+* ###  [[light-guardian#Описание|Легкий стражник]]  ( [[enemies#^2bd26b| B ]] )
 * ###  [[pipe-rat#Описание|Крыса с трубой]]  ( [[enemies#^2bd26b| B ]] )
 * ###  [[kamikaze-drone#Описание|Дрон камикадзе]]  ( [[enemies#^3d387f| s ]] [[enemies#^e82c8d| ^ ]] [[enemies#^77edde| + ]] )
 * ###  [[heavy-guardian#Описание|Тяжелый стражник]]  ( [[enemies#^2bd26b| B ]] [[enemies#^77edde| + ]] )
-* ###  [[whipper-bot#Описание|Бот-хлестатель]]
+* ###  [[whipper-bot#Описание|Бот-хлестатель]]  ( [[enemies#^2bd26b| B ]] )
 * ###  [[feral-drone|Дикий дрон]]  ( [[enemies#^2bd26b| B ]] [[enemies#^77edde| + ]] )
 
 
