@@ -83,8 +83,9 @@
 # Референсы
 ---
 
-![[mafia-boss-ref.png]]
+![[mafia-boss-1-ref.png]]
 
+![[mafia-boss-2.png]]
 
 
 # Музыкальная тема
