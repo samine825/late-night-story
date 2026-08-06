@@ -203,7 +203,11 @@
 
 ![[mafia-boss-daughter-ref.png]]
 
-![[mafia-boss-ref.png]]
+![[mafia-boss-1-ref.png]]
+
+![[mafia-boss-2-ref.png]]
+
+![[mafia-boss-3-ref.png]]
 
 ---
 ## Музыка
